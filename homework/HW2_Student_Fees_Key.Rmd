@@ -1,0 +1,6 @@
+## JOUR405
+### Homework 2
+
+### Student Fees and Percentage Change
+
+The point of this assignment is to show you how you can quickly analyze student fee costs - or spending or number of crimes - for how they have changed from year to year. It's useful for many stories. To do this, we'll use 

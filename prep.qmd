@@ -1,0 +1,26 @@
+```{r}
+library(tidyverse)
+library(janitor)
+library(lubridate)
+```
+
+### PG Crime
+
+```{r}
+crime_data <- read_csv("~/code/jour405/data/Crime_Incidents_July_2023_to_Present_20250120.csv") |> clean_names()
+
+crime_data <- crime_data |> mutate(date = mdy_hms(date))
+
+crime_data_2024 <- crime_data |> 
+  filter(year(date) == 2024)
+
+crime_data_2024_totals <- crime_data_2024 |> 
+  mutate(month = month(date, label=TRUE)) |> 
+  group_by(clearance_code_inc_type, month) |> 
+  summarize(crimes = n()) |> 
+  pivot_wider(names_from=month, values_from = crimes)
+
+write_csv(crime_data_2024_totals, "data/pg_crime_totals_2024.csv")
+
+```
+
