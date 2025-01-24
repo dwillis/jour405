@@ -20,7 +20,127 @@ crime_data_2024_totals <- crime_data_2024 |>
   summarize(crimes = n()) |> 
   pivot_wider(names_from=month, values_from = crimes)
 
-write_csv(crime_data_2024_totals, "data/pg_crime_totals_2024.csv")
+car_thefts_jan24 <- crime_data |> 
+  filter(year(date) == 2024, month(date) == 1) |> 
+  filter(clearance_code_inc_type == 'AUTO  STOLEN') |> 
+  group_by(date) |> 
+  summarize(count = n())
+
+car_thefts_jan24 |> 
+  summarize(mean = mean(count))
+
+#write_csv(car_thefts_jan24, "data/car_thefts_jan24.csv")
+
+
+# Calculate mean and standard deviation
+car_theft_stats <- car_thefts_jan24 |> 
+  summarize(
+    mean_thefts = mean(count),
+    sd_thefts = sd(count)
+  )
+
+print(car_theft_stats)
+
+# Plot histogram
+car_thefts_jan24 |> 
+  ggplot(aes(x = count)) +
+  geom_histogram(binwidth = 2, fill = "blue", alpha = 0.7, color = "black") +
+  geom_vline(aes(xintercept = mean(count)), color = "red", linetype = "dashed", size = 1) +
+  geom_vline(aes(xintercept = mean(count) + sd(count)), color = "green", linetype = "dotted", size = 1) +
+  geom_vline(aes(xintercept = mean(count) - sd(count)), color = "green", linetype = "dotted", size = 1) +
+  labs(
+    title = "Distribution of Daily Car Thefts with Mean and Standard Deviation",
+    x = "Number of Thefts",
+    y = "Frequency"
+  ) +
+  theme_minimal()
+
 
 ```
+
+### Statewide Crime Rates
+
+```{r}
+md_crime <- read_csv("https://raw.githubusercontent.com/dwillis/jour405/refs/heads/main/data/md_annual_crime.csv") |> clean_names()
+
+
+md_crime_with_rates <- md_crime |> 
+  mutate(total_rate = (grand_total/population) * 100000)
+
+```
+
+
+
+### Volleyball
+
+```{r}
+matches <- read_csv("https://raw.githubusercontent.com/dwillis/NCAAWomensVolleyballData/refs/heads/main/data/ncaa_womens_volleyball_matchstats_2024.csv")
+```
+```{r}
+aces_by_team <- matches |> 
+  group_by(team) |> 
+  summarize(total_aces = sum(aces))
+
+
+aces_by_team <- aces_by_team |> 
+  mutate(percentile = ntile(total_aces, 100))
+```
+
+### MD City Crime
+
+```{r}
+md_cities <- read_csv("data/md_cities_crime1920.csv") |> clean_names()
+
+mdc_19 <- md_cities |> filter(year == 2019) |> select(jurisdiction, county, population, violent_crime_total, property_crime_totals) |> rename(pop2019 = population, violent2019 = violent_crime_total, property2019 = property_crime_totals)
+mdc_20 <- md_cities |> filter(year == 2020) |> select(jurisdiction, county, population, violent_crime_total, property_crime_totals) |> rename(pop2020 = population, violent2020 = violent_crime_total, property2020 = property_crime_totals)
+
+md_cities_combined <- mdc_20 |> inner_join(mdc_19)
+
+write_csv(md_cities_combined, "data/md_cities_crime_2019_2020.csv")
+
+```
+
+
+### Spotify Songs
+
+```{r}
+spotify <- read_csv("~/Downloads/data.csv")
+
+
+recent <- spotify |> filter(year > 1999)
+
+songs_2020 <- spotify |> filter(year == 2020)
+
+write_csv(songs_2020, "data/spotify_2020.csv")
+
+```
+
+### Random Sampling
+
+```{r}
+population <- tibble(
+  id = 1:1000,
+  age = sample(18:80, 1000, replace = TRUE)
+)
+
+
+sample <- population |> 
+  sample_n(100)
+
+
+sample |> 
+  summarize(mean_age = mean(age), sd_age = sd(age))
+
+
+population |> 
+  summarize(mean_age = mean(age), sd_age = sd(age))
+
+
+
+```
+
+
+
+
+
 
