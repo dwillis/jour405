@@ -1,0 +1,72 @@
+## JOUR 405 FAQ
+### Questions you asked, answered
+
+#### General Coding in R and the Tidyverse
+
+Q: Why is software like RStudio more useful for analyzing statistics then something like Excel or Google Sheets? 
+A: The main reason is reproducibility - the ability to retrace our steps in exact order, something that spreadsheets don't do well since you can do pretty much anything you want in any order. See more here: https://thescoop.org/data_journalism_book/replication.html.
+
+Q: Is there a specific website or other resource you recommend for looking up tips or help for the proper functions or language to write in RStudio?
+A: There are a number of good guides, including [this one](https://learn.r-journalism.com/en/how_to_use_r/) and [this one](https://www.machlis.com/R4Journalists/), both aimed at journalists and journalism students.
+
+Q: Is there a list of R commands somewhere, or do you just have to get used to it?
+A: There definitely are lists of R commands, and there are a lot of them. Mostly we'll be using only a small portion of them, so what I recommend is creating a glossary for yourself.
+
+Q: How do I know if code did what I intended it to do?
+A: There are two main ways: first, if there's no error, that's a good sign, but it's not proof that the code did what you wanted it to. Second, you should have some expectation of the answer that you can compare the result to. So if you're doing basic math or an average, you should be able to tell if the result is out of line with expectations. For example, if you're averaging numbers and none of them are larger than 20, you shouldn't get a result that's greater than 20 (or very close to it, unless the numbers are similar).
+
+Q: When you install the packages, are they only on that project file, or will they be on every project going forward?
+A: Once you install a package, it's installed on your computer, and available to any project, so you won't need to install it again unless you upgrade your version of R. You still need to load packages using the `library()` function in order to use them.
+
+Q: Can you redefine x or any other object once you have defined it once? How do you reset the value?
+A: You absolutely can, by reassigning it. An example:
+
+```{r}
+x <- 2
+print(x)
+
+x <- "Donkey"
+print(x)
+```
+
+Q: What exactly is the tidyverse and what is its purpose? 
+A: The [Tidyverse](https://www.tidyverse.org/) is a series of tools that make working with data in R easier. They include tools for reading in data, cleaning it, creating graphics and more.
+
+Q: How do you consider and use order of operations when doing math with R?
+A: R follows the [basic order of operations](https://www.mathnasium.com/blog/order-of-operations-in-math) that most students have been taught at various levels of school. Since it's a programming language, R does give you some control over that, so you can explicitly enclose operations in parentheses to specify an exact order.
+
+Q: When should you use the console, and when should you create a script in R?
+A: Consider the console like a sandbox where you can try things to see if they work or execute commands that you will only need once. Everything else should go in the notebook files we're working in.
+
+Q: How do I know when to use quotes in R? Some commands it seemed like it needed it, but others did not.
+A: You'll put quotes around values that don't have numbers, like your name, and dates. You won't put quotes around numbers, variable names or around any R functions:
+
+```{r}
+name <- "Derek Willis"
+feb4 <- '2025-02-04'
+
+number <- 4.5
+
+print(number)
+```
+
+
+#### Working with Files
+
+Q: How do I properly save and organize my data so that it can be imported into R?
+A: R can read many different kinds of data files, including CSV (text files where columns are separated by commas), spreadsheets, databases and even HTML tables. The tidyverse and other packages offer ways to do this, and the best way is to try and work with the data in the format that it exists in. If it's a CSV file, we'll use `read_csv()`. If it's an Excel file, we'll use `read_excel()`. If it's an API from the Web, we'll use another library.
+
+#### Distributions
+
+Q: "Some distributions are symmetric whereas others have long tails in just one direction." This is from chapter 3 of the reading; what does this mean?
+A: There are normal distributions, which look like a bell curve, so the shapes on both sides of the middle are similar. And there are distributions that are not normally shaped. Think about the times when assignments are submitted. Typically, that's close to the deadline, so the shape of the curve would be highest on the far right (close to the deadline) and have a long tail off to the left.
+
+#### Measures of Central Tendency (Mean & Medians)
+
+Q: What does it mean when to use the median instead of the mean between points?
+A: While averages are very useful, sometimes they are misleading. Think about a company where the CEO makes $10,000,000 and 30 employees all make $50,000 each. The average salary is about $370,000. But no one at the company makes anything close to that amount, so the mean doesn't accurately describe the salary distribution. The median salary is $50,000, which is much closer to what the typical employee makes. Smoothing allows us to guard against extreme outlier values when trying to understand a measure of central tendency.
+
+#### Charts and Graphs
+
+Q: When creating charts to store data and information, how many variables can you have? Is there a limit?
+A: Not really, but the amount and kind of data you have will inform the choice of what kind of graphic you'll make.
