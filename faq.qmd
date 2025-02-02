@@ -67,6 +67,10 @@ Q: How do I properly save and organize my data so that it can be imported into R
 
 A: R can read many different kinds of data files, including CSV (text files where columns are separated by commas), spreadsheets, databases and even HTML tables. The tidyverse and other packages offer ways to do this, and the best way is to try and work with the data in the format that it exists in. If it's a CSV file, we'll use `read_csv()`. If it's an Excel file, we'll use `read_excel()`. If it's an API from the Web, we'll use another library.
 
+Q: I was able to load the CSV into my code using the URL in the online textbook, but I wasn't sure what to do with it after I loaded it. After you load a CSV, how do you view it? Does it pop up in your environment window?
+
+A: Once you load a CSV file using `read_csv()`, if you assigned it to a variable it will appear in your Environment tab on the upper right pane of RStudio. You can click on it there. You also can use the `View()` function in your notebook or in the console to see the rows and columns.
+
 #### Distributions
 
 Q: "Some distributions are symmetric whereas others have long tails in just one direction." This is from chapter 3 of the reading; what does this mean?
