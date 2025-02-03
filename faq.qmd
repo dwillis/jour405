@@ -23,6 +23,10 @@ Q: When you install the packages, are they only on that project file, or will th
 
 A: Once you install a package, it's installed on your computer, and available to any project, so you won't need to install it again unless you upgrade your version of R. You still need to load packages using the `library()` function in order to use them.
 
+Q: Is there a symbol in RStudio that signifies that our work has been saved or needs to be saved?
+
+A: The only sign in RStudio that you need to save is the name of the file in the upper left pane. If it's red, that means you haven't saved. If it's black, you haven't made any changes since you last saved.
+
 Q: Can you redefine x or any other object once you have defined it once? How do you reset the value?
 
 A: You absolutely can, by reassigning it. An example:
