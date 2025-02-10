@@ -41,7 +41,7 @@ print(x)
 
 Q: What exactly is the tidyverse and what is its purpose? 
 
-A: The [Tidyverse](https://www.tidyverse.org/) is a series of tools that make working with data in R easier. They include tools for reading in data, cleaning it, creating graphics and more.
+A: The [Tidyverse](https://www.tidyverse.org/) is a series of tools that make working with data in R easier. They include tools for reading in data, cleaning it, creating graphics and more. It was initial created by Hadley Wickham and now has many contributors.
 
 Q: How do you consider and use order of operations when doing math with R?
 
