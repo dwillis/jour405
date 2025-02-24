@@ -19,27 +19,34 @@ mandms <- read_csv("https://raw.githubusercontent.com/dwillis/jour405/refs/heads
 ### Task 3: Sample 5 rows of data from the dataset
 
 ```{r}
-sample <- mandms |> 
+sample5 <- mandms |> 
 sample_n(5)
+
+sample10 <- mandms |> 
+sample_n(10)
+
 ```
 
-### Task 4: Calculate the mean age and standard deviation of the sample
+### Task 4: Calculate the mean and standard deviation of the samples, using one of the colors.
 
 ```{r}
-sample |> 
-  summarize(mean_blue = mean(blue), sd_blue = sd(blue))
+sample5 |> 
+  summarize(mean_red = mean(red), sd_red = sd(red))
+
+sample10 |> 
+  summarize(mean_red = mean(red), sd_red = sd(red))
 ```
 
-### Task 5: Calculate the mean age and standard deviation of the population
+### Task 5: Calculate the mean and standard deviation of the population, using the same color as Task 4
 
 ```{r}
 mandms |> 
-  summarize(mean_blue = mean(blue), sd_blue = sd(blue))
+  summarize(mean_red = mean(red), sd_red = sd(red))
 ```
 
 ### Task 6: Compare the sample and population statistics
 
-Compare the two sets of means and standard deviations. Are they similar?
+Compare the three sets of means and standard deviations. Are they similar?
 
 ### Task 7: Describe the results
 
