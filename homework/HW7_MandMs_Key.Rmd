@@ -16,9 +16,11 @@ library(tidyverse)
 mandms <- read_csv("https://raw.githubusercontent.com/dwillis/jour405/refs/heads/main/data/mandms.csv")
 ```
 
-### Task 3: Sample 5 rows of data from the dataset
+### Task 3: Sample 5 rows of data from the dataset, and then sample 10 rows, saving each to separate dataframes called sample5 and sample10. Be sure to use set.seed(1234) before you start.
 
 ```{r}
+set.seed(1234)
+
 sample5 <- mandms |> 
 sample_n(5)
 
@@ -44,13 +46,40 @@ mandms |>
   summarize(mean_red = mean(red), sd_red = sd(red))
 ```
 
-### Task 6: Compare the sample and population statistics
+### Task 6: Make three histograms: one each for sample5, sample10 and the original dataset. Use a consistent binwidth.
 
-Compare the three sets of means and standard deviations. Are they similar?
+```{r}
 
-### Task 7: Describe the results
+sample5 |> 
+  ggplot() + 
+  geom_histogram(aes(x = red), fill = "blue", alpha = 0.5, binwidth = 2) +
+  labs(title = "Histogram of Sample (n=5)", x = "Count of red", y = "Frequency")
 
-Write a few sentences about what you found in the data. What does this tell you about the M&Ms dataset and about the act of random sampling?
+sample10 |> 
+  ggplot() + 
+  geom_histogram(aes(x = red), fill = "blue", alpha = 0.5, binwidth = 2) +
+  labs(title = "Histogram of Sample (n=10)", x = "Count of red", y = "Frequency")
+
+
+mandms |> 
+  ggplot() + 
+  geom_histogram(aes(x = red), fill = "blue", alpha = 0.5, binwidth = 2) +
+  labs(title = "Histogram of All Samples", x = "Count of red", y = "Frequency")
+
+```
+
+
+
+### Task 7: Answer some questions
+
+Compare the three sets of means, standard deviations and histograms. Which are more helpful to you in understanding the accuracy of the samples?
+
+What does this exercise tell you about the relationship between sample size and estimate accuracy?
+
+How does random sampling introduce variation into statistical estimates?
+
+If you repeated this process, would the samples always be identical? Why or why not?
+
 
 
 When finished, save your work, switch to GitHub Desktop, then add, commit and push your changes to GitHub and submit the URL of the notebook in ELMS.
