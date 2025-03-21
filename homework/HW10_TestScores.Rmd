@@ -1,5 +1,6 @@
 ---
 title: "HW10_TestScores"
+name: REPLACE WITH YOUR NAME
 ---
 
 ```{r setup, include=FALSE}
