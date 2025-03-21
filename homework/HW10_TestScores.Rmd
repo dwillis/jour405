@@ -42,12 +42,12 @@ score_data
 ```
 
 ### Reflection Question 1:
-Based on just looking at the score_data dataframe, have test scores improved? 
+Based on just looking at the score_data dataframe, have test scores improved? How can you tell?
 
 
 ## Task 2: Calculate key statistics
 
-Like Task 1, you will need to replace values where it says REPLACE_ME. 
+Like Task 1, you will need to replace values where it says REPLACE_ME before running any code.
 
 
 ```{r}
@@ -64,7 +64,6 @@ new_stats
 
 ### Reflection Question 2:
 Looking at the mean and standard deviation of the new scores compared to the previous statistics, what initial observations can you make? What questions might these statistics raise for your reporting?
-
 
 
 
@@ -104,7 +103,7 @@ Examine the chart you created, and suggest a better title based on the results o
 
 ## Task 4: Perform a hypothesis test
 
-This is where we formally test the superintendent's claim that reading scores have improved. Fill in the REPLACE_ME values
+This is where we formally test the superintendent's claim that reading scores have improved. Fill in the REPLACE_ME values as needed, beginning with your hypotheses.
 
 **Hypotheses:**
 Null: The new reading program REPLACE_ME
@@ -127,7 +126,7 @@ t_test_result
 ```
 
 ### Reflection Question 4:
-What does the p-value tell you, and what doesn't it tell you? How would you explain these statistical results to a non-technical audience while maintaining accuracy?
+What does the p-value tell you, and what doesn't it tell you? How would you explain these results to a non-technical audience while maintaining accuracy?
 
 
 
@@ -166,5 +165,4 @@ Based on these statistics, what would be your headline and lead paragraph for th
 
 
 ### Reflection Question 6:
-What metrics or outcomes beyond test scores might be important to track?
-
+What metrics or outcomes beyond test scores might be important to track for assessing reading performance?
