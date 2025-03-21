@@ -26,7 +26,7 @@ Before you can run this codeblock, you will need to fill in a value where it say
 ```{r}
 # Known information about reading scores before the new program
 prior_mean <- REPLACE_ME  # average score
-prior_sd <- 4.8     # standard deviation
+prior_sd <- REPLACE_ME     # standard deviation
 
 # Reading scores after implementing the new program (12 classrooms)
 new_scores <- c(74, 76, 73, 75, 78, 77, 74, 79, 75, 76, 77, 75) # Replace with the actual scores
