@@ -1,0 +1,171 @@
+---
+title: "Confidence Interval Demonstration with Sleep Data"
+format: html
+---
+
+```{r}
+# Load required libraries
+library(tidyverse)
+library(ggplot2)
+library(broom)
+
+# Set seed for reproducibility
+set.seed(123)
+
+# Read the data
+sleep_data <- read_csv("data/sleep_data.csv")
+
+# Function to bootstrap confidence intervals
+bootstrap_ci <- function(data, reps = 1000, conf_level = 0.95) {
+  # Create storage for bootstrap means
+  boot_means <- numeric(reps)
+  
+  # Bootstrap resampling
+  for(i in 1:reps) {
+    boot_sample <- sample(data$hours, size = length(data$hours), replace = TRUE)
+    boot_means[i] <- mean(boot_sample)
+  }
+  
+  # Calculate percentile-based confidence intervals
+  alpha <- 1 - conf_level
+  lower_ci <- quantile(boot_means, alpha/2)
+  upper_ci <- quantile(boot_means, 1 - alpha/2)
+  
+  return(list(
+    boot_means = boot_means,
+    lower_ci = lower_ci,
+    upper_ci = upper_ci,
+    sample_mean = mean(data$hours)
+  ))
+}
+
+# Explore the data
+summary_stats <- sleep_data %>%
+  summarise(
+    mean_hours = mean(hours),
+    sd_hours = sd(hours),
+    n = n(),
+    se = sd_hours / sqrt(n),
+    t_critical = qt(0.975, df = n - 1),  # t-statistic for 95% CI
+    margin_error = t_critical * se,
+    lower_ci = mean_hours - margin_error,
+    upper_ci = mean_hours + margin_error
+  )
+
+# Calculate bootstrap confidence interval
+boot_results <- bootstrap_ci(sleep_data)
+
+# Part 1: Visualize the data distribution with confidence interval
+p1 <- ggplot(sleep_data, aes(x = hours)) +
+  geom_histogram(binwidth = 0.5, fill = "skyblue", color = "white", alpha = 0.7) +
+  geom_vline(xintercept = summary_stats$mean_hours, color = "red", linewidth = 1) +
+  geom_vline(xintercept = summary_stats$lower_ci, color = "blue", linetype = "dashed") +
+  geom_vline(xintercept = summary_stats$upper_ci, color = "blue", linetype = "dashed") +
+  annotate("rect", 
+           xmin = summary_stats$lower_ci, 
+           xmax = summary_stats$upper_ci, 
+           ymin = 0, 
+           ymax = Inf, 
+           fill = "blue", 
+           alpha = 0.1) +
+  labs(
+    title = "Distribution of Sleep Hours",
+    subtitle = paste0("95% Confidence Interval: [", 
+                     round(summary_stats$lower_ci, 2), ", ", 
+                     round(summary_stats$upper_ci, 2), "]"),
+    x = "Hours of Sleep",
+    y = "Frequency"
+  ) +
+  theme_minimal()
+
+# Part 2: Visualize the bootstrap distribution
+boot_data <- tibble(mean = boot_results$boot_means)
+
+p2 <- ggplot(boot_data, aes(x = mean)) +
+  geom_histogram(binwidth = 0.05, fill = "lightgreen", color = "white", alpha = 0.7) +
+  geom_vline(xintercept = boot_results$sample_mean, color = "red", linewidth = 1) +
+  geom_vline(xintercept = boot_results$lower_ci, color = "blue", linetype = "dashed") +
+  geom_vline(xintercept = boot_results$upper_ci, color = "blue", linetype = "dashed") +
+  annotate("rect", 
+           xmin = boot_results$lower_ci, 
+           xmax = boot_results$upper_ci, 
+           ymin = 0, 
+           ymax = Inf, 
+           fill = "blue", 
+           alpha = 0.1) +
+  labs(
+    title = "Bootstrap Distribution of Mean Sleep Hours",
+    subtitle = paste0("95% Bootstrap CI: [", 
+                     round(boot_results$lower_ci, 2), ", ", 
+                     round(boot_results$upper_ci, 2), "]"),
+    x = "Bootstrap Sample Mean",
+    y = "Frequency"
+  ) +
+  theme_minimal()
+
+# Part 3: Demonstrate interpreting confidence intervals by sampling
+set.seed(456)
+n_simulations <- 25
+contains_true_mean <- 0
+simulation_results <- tibble()
+
+true_mean <- summary_stats$mean_hours
+
+for(i in 1:n_simulations) {
+  # Take a sample of size 20 from our data (with replacement)
+  sample_data <- sample_n(sleep_data, 20, replace = TRUE)
+  
+  # Calculate t-confidence interval
+  ci_result <- t.test(sample_data$hours, conf.level = 0.95)
+  
+  # Check if the interval contains the true mean
+  contains <- ci_result$conf.int[1] <= true_mean & true_mean <= ci_result$conf.int[2]
+  
+  # Store results
+  simulation_results <- bind_rows(
+    simulation_results,
+    tibble(
+      simulation = i,
+      lower = ci_result$conf.int[1],
+      upper = ci_result$conf.int[2],
+      estimate = ci_result$estimate,
+      contains_true_mean = contains
+    )
+  )
+  
+  if(contains) contains_true_mean <- contains_true_mean + 1
+}
+
+p3 <- ggplot(simulation_results, aes(y = simulation, x = estimate)) +
+  geom_point(color = "red", size = 2) +
+  geom_segment(aes(x = lower, xend = upper, yend = simulation, 
+                   color = contains_true_mean)) +
+  geom_vline(xintercept = true_mean, linetype = "dashed") +
+  scale_color_manual(values = c("FALSE" = "red", "TRUE" = "blue")) +
+  labs(
+    title = "Multiple 95% Confidence Intervals",
+    subtitle = paste0(round((contains_true_mean/n_simulations)*100), "% of intervals contain the true mean"),
+    x = "Hours of Sleep",
+    y = "Simulation Number",
+    color = "Contains True Mean"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "bottom")
+
+# Print results
+cat("Summary Statistics for Sleep Hours:\n")
+print(summary_stats)
+
+cat("\nT-test Results:\n")
+print(t.test(sleep_data$hours))
+
+cat("\nBootstrap 95% Confidence Interval: [", 
+    round(boot_results$lower_ci, 2), ", ", 
+    round(boot_results$upper_ci, 2), "]\n")
+
+# Print the plots
+print(p1)
+print(p2)
+print(p3)
+```
+
