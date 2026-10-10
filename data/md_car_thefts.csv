@@ -1,25 +1,25 @@
-county,population,thefts_2022,thefts_2023
-Allegany County,67762,37,35
-Anne Arundel County,590936,766,1080
-Baltimore City,577193,3128,7138
-Baltimore County,849586,1080,2427
-Calvert County,93791,38,50
-Caroline County,33406,30,30
-Carroll County,174318,47,71
-Cecil County,104366,123,150
-Charles County,168710,153,276
-Dorchester County,32612,51,92
-Frederick County,280341,97,176
-Garrett County,28713,6,7
-Harford County,262509,118,192
-Howard County,333916,398,697
-Kent County,19265,4,11
-Montgomery County,1057586,1247,2317
-Prince George's County,955584,4246,8546
-Queen Anne's County,50951,23,15
-Somerset County,114372,15,25
-St. Mary's County,24685,45,105
-Talbot County,37707,13,24
-Washington County,155033,172,262
-Wicomico County,104117,70,106
-Worcester County,53279,42,39
+county,population,thefts_2023,thefts_2024
+Allegany County,67084,35,48
+Anne Arundel County,599327,1080,1341
+Baltimore City,567952,7138,4375
+Baltimore County,846378,2427,2195
+Calvert County,94753,50,56
+Caroline County,33768,30,25
+Carroll County,176625,71,50
+Cecil County,105789,150,177
+Charles County,172174,276,323
+Dorchester County,32981,92,44
+Frederick County,293742,176,156
+Garrett County,28485,7,9
+Harford County,264739,192,167
+Howard County,336321,697,804
+Kent County,19448,11,8
+Montgomery County,1064369,2317,2196
+Prince George's County,954813,8546,6924
+Queen Anne's County,52624,15,19
+Somerset County,24596,25,12
+St. Mary's County,115242,105,79
+Talbot County,38019,24,22
+Washington County,155437,262,238
+Wicomico County,106024,106,99
+Worcester County,54237,39,36
