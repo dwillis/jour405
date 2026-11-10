@@ -1,0 +1,163 @@
+unit_id,school,race,y2014,y2024,change
+151351,Indiana University-Bloomington,American Indian or Alaska Native,0,0,0
+171100,Michigan State University,American Indian or Alaska Native,0,0,0
+147767,Northwestern University,American Indian or Alaska Native,0,0,0
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,0,0,0
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,0,0,0
+243780,Purdue University-Main Campus,American Indian or Alaska Native,0,0,0
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,0,0,0
+110662,University of California-Los Angeles,American Indian or Alaska Native,0,0,0
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,0,0,0
+153658,University of Iowa,American Indian or Alaska Native,0,0,0
+163286,University of Maryland-College Park,American Indian or Alaska Native,0,0,0
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,0,0,0
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,0,0,0
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,0,0,0
+209551,University of Oregon,American Indian or Alaska Native,1,1,0
+123961,University of Southern California,American Indian or Alaska Native,0,0,0
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,0,0,0
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,0,0,0
+243780,Purdue University-Main Campus,Asian,5,15,10
+186380,Rutgers University-New Brunswick,Asian,26,34,8
+163286,University of Maryland-College Park,Asian,16,24,8
+151351,Indiana University-Bloomington,Asian,4,11,7
+145637,University of Illinois Urbana-Champaign,Asian,16,23,7
+240444,University of Wisconsin-Madison,Asian,5,11,6
+204796,Ohio State University-Main Campus,Asian,6,11,5
+170976,University of Michigan-Ann Arbor,Asian,13,18,5
+171100,Michigan State University,Asian,4,8,4
+147767,Northwestern University,Asian,17,21,4
+174066,University of Minnesota-Twin Cities,Asian,9,13,4
+214777,Pennsylvania State University-Main Campus,Asian,6,8,2
+153658,University of Iowa,Asian,3,5,2
+181464,University of Nebraska-Lincoln,Asian,2,4,2
+209551,University of Oregon,Asian,5,7,2
+123961,University of Southern California,Asian,22,23,1
+110662,University of California-Los Angeles,Asian,30,30,0
+236948,University of Washington-Seattle Campus,Asian,23,22,-1
+174066,University of Minnesota-Twin Cities,Black or African American,4,9,5
+123961,University of Southern California,Black or African American,4,7,3
+147767,Northwestern University,Black or African American,6,8,2
+204796,Ohio State University-Main Campus,Black or African American,6,8,2
+214777,Pennsylvania State University-Main Campus,Black or African American,4,5,1
+170976,University of Michigan-Ann Arbor,Black or African American,4,5,1
+209551,University of Oregon,Black or African American,2,3,1
+240444,University of Wisconsin-Madison,Black or African American,2,3,1
+151351,Indiana University-Bloomington,Black or African American,4,4,0
+171100,Michigan State University,Black or African American,7,7,0
+243780,Purdue University-Main Campus,Black or African American,3,3,0
+186380,Rutgers University-New Brunswick,Black or African American,7,7,0
+110662,University of California-Los Angeles,Black or African American,3,3,0
+145637,University of Illinois Urbana-Champaign,Black or African American,5,5,0
+153658,University of Iowa,Black or African American,3,3,0
+163286,University of Maryland-College Park,Black or African American,13,13,0
+181464,University of Nebraska-Lincoln,Black or African American,3,3,0
+236948,University of Washington-Seattle Campus,Black or African American,3,3,0
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,4,12,8
+209551,University of Oregon,Hispanic/Latino,9,17,8
+123961,University of Southern California,Hispanic/Latino,13,20,7
+147767,Northwestern University,Hispanic/Latino,11,16,5
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,9,14,5
+181464,University of Nebraska-Lincoln,Hispanic/Latino,5,10,5
+151351,Indiana University-Bloomington,Hispanic/Latino,5,9,4
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,5,9,4
+186380,Rutgers University-New Brunswick,Hispanic/Latino,12,16,4
+110662,University of California-Los Angeles,Hispanic/Latino,20,24,4
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,3,7,4
+171100,Michigan State University,Hispanic/Latino,4,7,3
+204796,Ohio State University-Main Campus,Hispanic/Latino,3,6,3
+243780,Purdue University-Main Campus,Hispanic/Latino,4,7,3
+153658,University of Iowa,Hispanic/Latino,6,9,3
+240444,University of Wisconsin-Madison,Hispanic/Latino,5,8,3
+163286,University of Maryland-College Park,Hispanic/Latino,9,11,2
+236948,University of Washington-Seattle Campus,Hispanic/Latino,7,8,1
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,0,0,0
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,0,0,0
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,0,0,0
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,0,0,0
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,0,0,0
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,0,0,0
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,0,0,0
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,0,0,0
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,0,0,0
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,0,0,0
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,0,0,0
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,0,0,0
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,0,0,0
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,0,0,0
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,0,0,0
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,0,0,0
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,0,0,0
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,0,0,0
+147767,Northwestern University,Nonresident,7,11,4
+240444,University of Wisconsin-Madison,Nonresident,8,11,3
+186380,Rutgers University-New Brunswick,Nonresident,6,7,1
+170976,University of Michigan-Ann Arbor,Nonresident,7,8,1
+204796,Ohio State University-Main Campus,Nonresident,8,8,0
+163286,University of Maryland-College Park,Nonresident,4,4,0
+123961,University of Southern California,Nonresident,14,14,0
+214777,Pennsylvania State University-Main Campus,Nonresident,10,9,-1
+145637,University of Illinois Urbana-Champaign,Nonresident,16,15,-1
+174066,University of Minnesota-Twin Cities,Nonresident,9,5,-4
+236948,University of Washington-Seattle Campus,Nonresident,14,10,-4
+151351,Indiana University-Bloomington,Nonresident,10,5,-5
+110662,University of California-Los Angeles,Nonresident,13,8,-5
+181464,University of Nebraska-Lincoln,Nonresident,8,3,-5
+243780,Purdue University-Main Campus,Nonresident,17,10,-7
+171100,Michigan State University,Nonresident,14,5,-9
+153658,University of Iowa,Nonresident,11,1,-10
+209551,University of Oregon,Nonresident,13,1,-12
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,4,24,20
+147767,Northwestern University,Race/ethnicity unknown,2,6,4
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2,6,4
+163286,University of Maryland-College Park,Race/ethnicity unknown,2,5,3
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,0,3,3
+171100,Michigan State University,Race/ethnicity unknown,1,2,1
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2,3,1
+110662,University of California-Los Angeles,Race/ethnicity unknown,2,3,1
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,1,2,1
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,3,4,1
+151351,Indiana University-Bloomington,Race/ethnicity unknown,1,1,0
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,3,3,0
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2,2,0
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2,1,-1
+209551,University of Oregon,Race/ethnicity unknown,2,1,-1
+123961,University of Southern California,Race/ethnicity unknown,5,4,-1
+153658,University of Iowa,Race/ethnicity unknown,6,4,-2
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,7,4,-3
+153658,University of Iowa,White,68,74,6
+171100,Michigan State University,White,68,67,-1
+209551,University of Oregon,White,62,60,-2
+181464,University of Nebraska-Lincoln,White,78,75,-3
+110662,University of California-Los Angeles,White,28,24,-4
+214777,Pennsylvania State University-Main Campus,White,70,63,-7
+151351,Indiana University-Bloomington,White,73,65,-8
+123961,University of Southern California,White,36,25,-11
+243780,Purdue University-Main Campus,White,66,54,-12
+174066,University of Minnesota-Twin Cities,White,68,56,-12
+204796,Ohio State University-Main Campus,White,72,59,-13
+186380,Rutgers University-New Brunswick,White,43,30,-13
+145637,University of Illinois Urbana-Champaign,White,50,37,-13
+163286,University of Maryland-College Park,White,52,38,-14
+170976,University of Michigan-Ann Arbor,White,62,46,-16
+236948,University of Washington-Seattle Campus,White,43,26,-17
+240444,University of Wisconsin-Madison,White,76,59,-17
+147767,Northwestern University,White,52,30,-22
+209551,University of Oregon,two or more races,6,10,4
+151351,Indiana University-Bloomington,two or more races,3,6,3
+147767,Northwestern University,two or more races,5,8,3
+243780,Purdue University-Main Campus,two or more races,2,5,3
+110662,University of California-Los Angeles,two or more races,5,8,3
+170976,University of Michigan-Ann Arbor,two or more races,3,6,3
+204796,Ohio State University-Main Campus,two or more races,3,5,2
+214777,Pennsylvania State University-Main Campus,two or more races,2,4,2
+153658,University of Iowa,two or more races,2,4,2
+174066,University of Minnesota-Twin Cities,two or more races,3,5,2
+240444,University of Wisconsin-Madison,two or more races,3,5,2
+171100,Michigan State University,two or more races,3,4,1
+186380,Rutgers University-New Brunswick,two or more races,3,4,1
+145637,University of Illinois Urbana-Champaign,two or more races,3,4,1
+163286,University of Maryland-College Park,two or more races,4,5,1
+181464,University of Nebraska-Lincoln,two or more races,3,4,1
+123961,University of Southern California,two or more races,5,6,1
+236948,University of Washington-Seattle Campus,two or more races,6,6,0
