@@ -1,0 +1,1981 @@
+unit_id,school,race,year,percent
+151351,Indiana University-Bloomington,American Indian or Alaska Native,2014,0
+151351,Indiana University-Bloomington,American Indian or Alaska Native,2015,0
+151351,Indiana University-Bloomington,American Indian or Alaska Native,2016,0
+151351,Indiana University-Bloomington,American Indian or Alaska Native,2017,0
+151351,Indiana University-Bloomington,American Indian or Alaska Native,2018,0
+151351,Indiana University-Bloomington,American Indian or Alaska Native,2019,0
+151351,Indiana University-Bloomington,American Indian or Alaska Native,2020,0
+151351,Indiana University-Bloomington,American Indian or Alaska Native,2021,0
+151351,Indiana University-Bloomington,American Indian or Alaska Native,2022,0
+151351,Indiana University-Bloomington,American Indian or Alaska Native,2023,0
+151351,Indiana University-Bloomington,American Indian or Alaska Native,2024,0
+151351,Indiana University-Bloomington,Asian,2014,4
+151351,Indiana University-Bloomington,Asian,2015,4
+151351,Indiana University-Bloomington,Asian,2016,5
+151351,Indiana University-Bloomington,Asian,2017,5
+151351,Indiana University-Bloomington,Asian,2018,6
+151351,Indiana University-Bloomington,Asian,2019,6
+151351,Indiana University-Bloomington,Asian,2020,7
+151351,Indiana University-Bloomington,Asian,2021,8
+151351,Indiana University-Bloomington,Asian,2022,9
+151351,Indiana University-Bloomington,Asian,2023,10
+151351,Indiana University-Bloomington,Asian,2024,11
+151351,Indiana University-Bloomington,Asian/Native Hawaiian/Pacific Islander,2014,4
+151351,Indiana University-Bloomington,Asian/Native Hawaiian/Pacific Islander,2015,4
+151351,Indiana University-Bloomington,Asian/Native Hawaiian/Pacific Islander,2016,5
+151351,Indiana University-Bloomington,Asian/Native Hawaiian/Pacific Islander,2017,5
+151351,Indiana University-Bloomington,Asian/Native Hawaiian/Pacific Islander,2018,6
+151351,Indiana University-Bloomington,Asian/Native Hawaiian/Pacific Islander,2019,6
+151351,Indiana University-Bloomington,Asian/Native Hawaiian/Pacific Islander,2020,7
+151351,Indiana University-Bloomington,Asian/Native Hawaiian/Pacific Islander,2021,8
+151351,Indiana University-Bloomington,Asian/Native Hawaiian/Pacific Islander,2022,9
+151351,Indiana University-Bloomington,Asian/Native Hawaiian/Pacific Islander,2023,10
+151351,Indiana University-Bloomington,Asian/Native Hawaiian/Pacific Islander,2024,11
+151351,Indiana University-Bloomington,Black or African American,2014,4
+151351,Indiana University-Bloomington,Black or African American,2015,4
+151351,Indiana University-Bloomington,Black or African American,2016,4
+151351,Indiana University-Bloomington,Black or African American,2017,4
+151351,Indiana University-Bloomington,Black or African American,2018,5
+151351,Indiana University-Bloomington,Black or African American,2019,4
+151351,Indiana University-Bloomington,Black or African American,2020,5
+151351,Indiana University-Bloomington,Black or African American,2021,4
+151351,Indiana University-Bloomington,Black or African American,2022,4
+151351,Indiana University-Bloomington,Black or African American,2023,4
+151351,Indiana University-Bloomington,Black or African American,2024,4
+151351,Indiana University-Bloomington,Hispanic/Latino,2014,5
+151351,Indiana University-Bloomington,Hispanic/Latino,2015,5
+151351,Indiana University-Bloomington,Hispanic/Latino,2016,5
+151351,Indiana University-Bloomington,Hispanic/Latino,2017,6
+151351,Indiana University-Bloomington,Hispanic/Latino,2018,6
+151351,Indiana University-Bloomington,Hispanic/Latino,2019,7
+151351,Indiana University-Bloomington,Hispanic/Latino,2020,8
+151351,Indiana University-Bloomington,Hispanic/Latino,2021,8
+151351,Indiana University-Bloomington,Hispanic/Latino,2022,8
+151351,Indiana University-Bloomington,Hispanic/Latino,2023,8
+151351,Indiana University-Bloomington,Hispanic/Latino,2024,9
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,2014,0
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,2015,0
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,2016,0
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,2017,0
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,2018,0
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,2019,0
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,2020,0
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,2021,0
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,2022,0
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,2023,0
+151351,Indiana University-Bloomington,Native Hawaiian or Other Pacific Islander,2024,0
+151351,Indiana University-Bloomington,Nonresident,2014,10
+151351,Indiana University-Bloomington,Nonresident,2015,10
+151351,Indiana University-Bloomington,Nonresident,2016,9
+151351,Indiana University-Bloomington,Nonresident,2017,11
+151351,Indiana University-Bloomington,Nonresident,2018,9
+151351,Indiana University-Bloomington,Nonresident,2019,8
+151351,Indiana University-Bloomington,Nonresident,2020,6
+151351,Indiana University-Bloomington,Nonresident,2021,5
+151351,Indiana University-Bloomington,Nonresident,2022,5
+151351,Indiana University-Bloomington,Nonresident,2023,5
+151351,Indiana University-Bloomington,Nonresident,2024,5
+151351,Indiana University-Bloomington,Race/ethnicity unknown,2014,1
+151351,Indiana University-Bloomington,Race/ethnicity unknown,2015,7
+151351,Indiana University-Bloomington,Race/ethnicity unknown,2016,2
+151351,Indiana University-Bloomington,Race/ethnicity unknown,2017,0
+151351,Indiana University-Bloomington,Race/ethnicity unknown,2018,0
+151351,Indiana University-Bloomington,Race/ethnicity unknown,2019,0
+151351,Indiana University-Bloomington,Race/ethnicity unknown,2020,0
+151351,Indiana University-Bloomington,Race/ethnicity unknown,2021,0
+151351,Indiana University-Bloomington,Race/ethnicity unknown,2022,1
+151351,Indiana University-Bloomington,Race/ethnicity unknown,2023,1
+151351,Indiana University-Bloomington,Race/ethnicity unknown,2024,1
+151351,Indiana University-Bloomington,White,2014,73
+151351,Indiana University-Bloomington,White,2015,67
+151351,Indiana University-Bloomington,White,2016,71
+151351,Indiana University-Bloomington,White,2017,69
+151351,Indiana University-Bloomington,White,2018,69
+151351,Indiana University-Bloomington,White,2019,69
+151351,Indiana University-Bloomington,White,2020,69
+151351,Indiana University-Bloomington,White,2021,69
+151351,Indiana University-Bloomington,White,2022,67
+151351,Indiana University-Bloomington,White,2023,66
+151351,Indiana University-Bloomington,White,2024,65
+151351,Indiana University-Bloomington,two or more races,2014,3
+151351,Indiana University-Bloomington,two or more races,2015,3
+151351,Indiana University-Bloomington,two or more races,2016,4
+151351,Indiana University-Bloomington,two or more races,2017,4
+151351,Indiana University-Bloomington,two or more races,2018,4
+151351,Indiana University-Bloomington,two or more races,2019,5
+151351,Indiana University-Bloomington,two or more races,2020,5
+151351,Indiana University-Bloomington,two or more races,2021,5
+151351,Indiana University-Bloomington,two or more races,2022,5
+151351,Indiana University-Bloomington,two or more races,2023,6
+151351,Indiana University-Bloomington,two or more races,2024,6
+171100,Michigan State University,American Indian or Alaska Native,2014,0
+171100,Michigan State University,American Indian or Alaska Native,2015,0
+171100,Michigan State University,American Indian or Alaska Native,2016,0
+171100,Michigan State University,American Indian or Alaska Native,2017,0
+171100,Michigan State University,American Indian or Alaska Native,2018,0
+171100,Michigan State University,American Indian or Alaska Native,2019,0
+171100,Michigan State University,American Indian or Alaska Native,2020,0
+171100,Michigan State University,American Indian or Alaska Native,2021,0
+171100,Michigan State University,American Indian or Alaska Native,2022,0
+171100,Michigan State University,American Indian or Alaska Native,2023,0
+171100,Michigan State University,American Indian or Alaska Native,2024,0
+171100,Michigan State University,Asian,2014,4
+171100,Michigan State University,Asian,2015,5
+171100,Michigan State University,Asian,2016,5
+171100,Michigan State University,Asian,2017,5
+171100,Michigan State University,Asian,2018,6
+171100,Michigan State University,Asian,2019,6
+171100,Michigan State University,Asian,2020,7
+171100,Michigan State University,Asian,2021,7
+171100,Michigan State University,Asian,2022,8
+171100,Michigan State University,Asian,2023,8
+171100,Michigan State University,Asian,2024,8
+171100,Michigan State University,Asian/Native Hawaiian/Pacific Islander,2014,4
+171100,Michigan State University,Asian/Native Hawaiian/Pacific Islander,2015,5
+171100,Michigan State University,Asian/Native Hawaiian/Pacific Islander,2016,5
+171100,Michigan State University,Asian/Native Hawaiian/Pacific Islander,2017,5
+171100,Michigan State University,Asian/Native Hawaiian/Pacific Islander,2018,6
+171100,Michigan State University,Asian/Native Hawaiian/Pacific Islander,2019,6
+171100,Michigan State University,Asian/Native Hawaiian/Pacific Islander,2020,7
+171100,Michigan State University,Asian/Native Hawaiian/Pacific Islander,2021,7
+171100,Michigan State University,Asian/Native Hawaiian/Pacific Islander,2022,8
+171100,Michigan State University,Asian/Native Hawaiian/Pacific Islander,2023,8
+171100,Michigan State University,Asian/Native Hawaiian/Pacific Islander,2024,8
+171100,Michigan State University,Black or African American,2014,7
+171100,Michigan State University,Black or African American,2015,7
+171100,Michigan State University,Black or African American,2016,7
+171100,Michigan State University,Black or African American,2017,7
+171100,Michigan State University,Black or African American,2018,7
+171100,Michigan State University,Black or African American,2019,7
+171100,Michigan State University,Black or African American,2020,8
+171100,Michigan State University,Black or African American,2021,7
+171100,Michigan State University,Black or African American,2022,7
+171100,Michigan State University,Black or African American,2023,7
+171100,Michigan State University,Black or African American,2024,7
+171100,Michigan State University,Hispanic/Latino,2014,4
+171100,Michigan State University,Hispanic/Latino,2015,4
+171100,Michigan State University,Hispanic/Latino,2016,4
+171100,Michigan State University,Hispanic/Latino,2017,4
+171100,Michigan State University,Hispanic/Latino,2018,5
+171100,Michigan State University,Hispanic/Latino,2019,5
+171100,Michigan State University,Hispanic/Latino,2020,6
+171100,Michigan State University,Hispanic/Latino,2021,6
+171100,Michigan State University,Hispanic/Latino,2022,6
+171100,Michigan State University,Hispanic/Latino,2023,6
+171100,Michigan State University,Hispanic/Latino,2024,7
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,2014,0
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,2015,0
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,2016,0
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,2017,0
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,2018,0
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,2019,0
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,2020,0
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,2021,0
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,2022,0
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,2023,0
+171100,Michigan State University,Native Hawaiian or Other Pacific Islander,2024,0
+171100,Michigan State University,Nonresident,2014,14
+171100,Michigan State University,Nonresident,2015,13
+171100,Michigan State University,Nonresident,2016,13
+171100,Michigan State University,Nonresident,2017,12
+171100,Michigan State University,Nonresident,2018,10
+171100,Michigan State University,Nonresident,2019,9
+171100,Michigan State University,Nonresident,2020,7
+171100,Michigan State University,Nonresident,2021,6
+171100,Michigan State University,Nonresident,2022,6
+171100,Michigan State University,Nonresident,2023,6
+171100,Michigan State University,Nonresident,2024,5
+171100,Michigan State University,Race/ethnicity unknown,2014,1
+171100,Michigan State University,Race/ethnicity unknown,2015,1
+171100,Michigan State University,Race/ethnicity unknown,2016,1
+171100,Michigan State University,Race/ethnicity unknown,2017,1
+171100,Michigan State University,Race/ethnicity unknown,2018,1
+171100,Michigan State University,Race/ethnicity unknown,2019,1
+171100,Michigan State University,Race/ethnicity unknown,2020,1
+171100,Michigan State University,Race/ethnicity unknown,2021,2
+171100,Michigan State University,Race/ethnicity unknown,2022,2
+171100,Michigan State University,Race/ethnicity unknown,2023,2
+171100,Michigan State University,Race/ethnicity unknown,2024,2
+171100,Michigan State University,White,2014,68
+171100,Michigan State University,White,2015,67
+171100,Michigan State University,White,2016,67
+171100,Michigan State University,White,2017,67
+171100,Michigan State University,White,2018,68
+171100,Michigan State University,White,2019,68
+171100,Michigan State University,White,2020,68
+171100,Michigan State University,White,2021,68
+171100,Michigan State University,White,2022,67
+171100,Michigan State University,White,2023,67
+171100,Michigan State University,White,2024,67
+171100,Michigan State University,two or more races,2014,3
+171100,Michigan State University,two or more races,2015,3
+171100,Michigan State University,two or more races,2016,3
+171100,Michigan State University,two or more races,2017,3
+171100,Michigan State University,two or more races,2018,3
+171100,Michigan State University,two or more races,2019,3
+171100,Michigan State University,two or more races,2020,4
+171100,Michigan State University,two or more races,2021,4
+171100,Michigan State University,two or more races,2022,4
+171100,Michigan State University,two or more races,2023,4
+171100,Michigan State University,two or more races,2024,4
+147767,Northwestern University,American Indian or Alaska Native,2014,0
+147767,Northwestern University,American Indian or Alaska Native,2015,0
+147767,Northwestern University,American Indian or Alaska Native,2016,0
+147767,Northwestern University,American Indian or Alaska Native,2017,0
+147767,Northwestern University,American Indian or Alaska Native,2018,0
+147767,Northwestern University,American Indian or Alaska Native,2019,0
+147767,Northwestern University,American Indian or Alaska Native,2020,0
+147767,Northwestern University,American Indian or Alaska Native,2021,0
+147767,Northwestern University,American Indian or Alaska Native,2022,0
+147767,Northwestern University,American Indian or Alaska Native,2023,0
+147767,Northwestern University,American Indian or Alaska Native,2024,0
+147767,Northwestern University,Asian,2014,17
+147767,Northwestern University,Asian,2015,17
+147767,Northwestern University,Asian,2016,17
+147767,Northwestern University,Asian,2017,17
+147767,Northwestern University,Asian,2018,17
+147767,Northwestern University,Asian,2019,18
+147767,Northwestern University,Asian,2020,19
+147767,Northwestern University,Asian,2021,20
+147767,Northwestern University,Asian,2022,21
+147767,Northwestern University,Asian,2023,21
+147767,Northwestern University,Asian,2024,21
+147767,Northwestern University,Asian/Native Hawaiian/Pacific Islander,2014,17
+147767,Northwestern University,Asian/Native Hawaiian/Pacific Islander,2015,17
+147767,Northwestern University,Asian/Native Hawaiian/Pacific Islander,2016,17
+147767,Northwestern University,Asian/Native Hawaiian/Pacific Islander,2017,17
+147767,Northwestern University,Asian/Native Hawaiian/Pacific Islander,2018,17
+147767,Northwestern University,Asian/Native Hawaiian/Pacific Islander,2019,18
+147767,Northwestern University,Asian/Native Hawaiian/Pacific Islander,2020,19
+147767,Northwestern University,Asian/Native Hawaiian/Pacific Islander,2021,20
+147767,Northwestern University,Asian/Native Hawaiian/Pacific Islander,2022,21
+147767,Northwestern University,Asian/Native Hawaiian/Pacific Islander,2023,21
+147767,Northwestern University,Asian/Native Hawaiian/Pacific Islander,2024,21
+147767,Northwestern University,Black or African American,2014,6
+147767,Northwestern University,Black or African American,2015,6
+147767,Northwestern University,Black or African American,2016,6
+147767,Northwestern University,Black or African American,2017,6
+147767,Northwestern University,Black or African American,2018,6
+147767,Northwestern University,Black or African American,2019,6
+147767,Northwestern University,Black or African American,2020,6
+147767,Northwestern University,Black or African American,2021,6
+147767,Northwestern University,Black or African American,2022,7
+147767,Northwestern University,Black or African American,2023,7
+147767,Northwestern University,Black or African American,2024,8
+147767,Northwestern University,Hispanic/Latino,2014,11
+147767,Northwestern University,Hispanic/Latino,2015,11
+147767,Northwestern University,Hispanic/Latino,2016,12
+147767,Northwestern University,Hispanic/Latino,2017,12
+147767,Northwestern University,Hispanic/Latino,2018,12
+147767,Northwestern University,Hispanic/Latino,2019,12
+147767,Northwestern University,Hispanic/Latino,2020,13
+147767,Northwestern University,Hispanic/Latino,2021,14
+147767,Northwestern University,Hispanic/Latino,2022,14
+147767,Northwestern University,Hispanic/Latino,2023,15
+147767,Northwestern University,Hispanic/Latino,2024,16
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,2014,0
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,2015,0
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,2016,0
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,2017,0
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,2018,0
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,2019,0
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,2020,0
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,2021,0
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,2022,0
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,2023,0
+147767,Northwestern University,Native Hawaiian or Other Pacific Islander,2024,0
+147767,Northwestern University,Nonresident,2014,7
+147767,Northwestern University,Nonresident,2015,8
+147767,Northwestern University,Nonresident,2016,9
+147767,Northwestern University,Nonresident,2017,9
+147767,Northwestern University,Nonresident,2018,9
+147767,Northwestern University,Nonresident,2019,10
+147767,Northwestern University,Nonresident,2020,10
+147767,Northwestern University,Nonresident,2021,10
+147767,Northwestern University,Nonresident,2022,10
+147767,Northwestern University,Nonresident,2023,10
+147767,Northwestern University,Nonresident,2024,11
+147767,Northwestern University,Race/ethnicity unknown,2014,2
+147767,Northwestern University,Race/ethnicity unknown,2015,3
+147767,Northwestern University,Race/ethnicity unknown,2016,3
+147767,Northwestern University,Race/ethnicity unknown,2017,4
+147767,Northwestern University,Race/ethnicity unknown,2018,4
+147767,Northwestern University,Race/ethnicity unknown,2019,4
+147767,Northwestern University,Race/ethnicity unknown,2020,4
+147767,Northwestern University,Race/ethnicity unknown,2021,4
+147767,Northwestern University,Race/ethnicity unknown,2022,4
+147767,Northwestern University,Race/ethnicity unknown,2023,5
+147767,Northwestern University,Race/ethnicity unknown,2024,6
+147767,Northwestern University,White,2014,52
+147767,Northwestern University,White,2015,50
+147767,Northwestern University,White,2016,48
+147767,Northwestern University,White,2017,47
+147767,Northwestern University,White,2018,45
+147767,Northwestern University,White,2019,44
+147767,Northwestern University,White,2020,42
+147767,Northwestern University,White,2021,40
+147767,Northwestern University,White,2022,37
+147767,Northwestern University,White,2023,34
+147767,Northwestern University,White,2024,30
+147767,Northwestern University,two or more races,2014,5
+147767,Northwestern University,two or more races,2015,5
+147767,Northwestern University,two or more races,2016,5
+147767,Northwestern University,two or more races,2017,5
+147767,Northwestern University,two or more races,2018,6
+147767,Northwestern University,two or more races,2019,6
+147767,Northwestern University,two or more races,2020,6
+147767,Northwestern University,two or more races,2021,7
+147767,Northwestern University,two or more races,2022,7
+147767,Northwestern University,two or more races,2023,8
+147767,Northwestern University,two or more races,2024,8
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,2014,0
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,2015,0
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,2016,0
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,2017,0
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,2018,0
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,2019,0
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,2020,0
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,2021,0
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,2022,0
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,2023,0
+204796,Ohio State University-Main Campus,American Indian or Alaska Native,2024,0
+204796,Ohio State University-Main Campus,Asian,2014,6
+204796,Ohio State University-Main Campus,Asian,2015,6
+204796,Ohio State University-Main Campus,Asian,2016,6
+204796,Ohio State University-Main Campus,Asian,2017,7
+204796,Ohio State University-Main Campus,Asian,2018,7
+204796,Ohio State University-Main Campus,Asian,2019,8
+204796,Ohio State University-Main Campus,Asian,2020,8
+204796,Ohio State University-Main Campus,Asian,2021,9
+204796,Ohio State University-Main Campus,Asian,2022,9
+204796,Ohio State University-Main Campus,Asian,2023,10
+204796,Ohio State University-Main Campus,Asian,2024,11
+204796,Ohio State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2014,6
+204796,Ohio State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2015,6
+204796,Ohio State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2016,7
+204796,Ohio State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2017,7
+204796,Ohio State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2018,7
+204796,Ohio State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2019,8
+204796,Ohio State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2020,8
+204796,Ohio State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2021,9
+204796,Ohio State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2022,9
+204796,Ohio State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2023,10
+204796,Ohio State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2024,11
+204796,Ohio State University-Main Campus,Black or African American,2014,6
+204796,Ohio State University-Main Campus,Black or African American,2015,6
+204796,Ohio State University-Main Campus,Black or African American,2016,6
+204796,Ohio State University-Main Campus,Black or African American,2017,6
+204796,Ohio State University-Main Campus,Black or African American,2018,6
+204796,Ohio State University-Main Campus,Black or African American,2019,7
+204796,Ohio State University-Main Campus,Black or African American,2020,7
+204796,Ohio State University-Main Campus,Black or African American,2021,8
+204796,Ohio State University-Main Campus,Black or African American,2022,8
+204796,Ohio State University-Main Campus,Black or African American,2023,8
+204796,Ohio State University-Main Campus,Black or African American,2024,8
+204796,Ohio State University-Main Campus,Hispanic/Latino,2014,3
+204796,Ohio State University-Main Campus,Hispanic/Latino,2015,4
+204796,Ohio State University-Main Campus,Hispanic/Latino,2016,4
+204796,Ohio State University-Main Campus,Hispanic/Latino,2017,4
+204796,Ohio State University-Main Campus,Hispanic/Latino,2018,4
+204796,Ohio State University-Main Campus,Hispanic/Latino,2019,5
+204796,Ohio State University-Main Campus,Hispanic/Latino,2020,5
+204796,Ohio State University-Main Campus,Hispanic/Latino,2021,5
+204796,Ohio State University-Main Campus,Hispanic/Latino,2022,5
+204796,Ohio State University-Main Campus,Hispanic/Latino,2023,6
+204796,Ohio State University-Main Campus,Hispanic/Latino,2024,6
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,2014,0
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,2015,0
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,2016,0
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,2017,0
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,2018,0
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,2019,0
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,2020,0
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,2021,0
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,2022,0
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,2023,0
+204796,Ohio State University-Main Campus,Native Hawaiian or Other Pacific Islander,2024,0
+204796,Ohio State University-Main Campus,Nonresident,2014,8
+204796,Ohio State University-Main Campus,Nonresident,2015,7
+204796,Ohio State University-Main Campus,Nonresident,2016,8
+204796,Ohio State University-Main Campus,Nonresident,2017,8
+204796,Ohio State University-Main Campus,Nonresident,2018,9
+204796,Ohio State University-Main Campus,Nonresident,2019,8
+204796,Ohio State University-Main Campus,Nonresident,2020,7
+204796,Ohio State University-Main Campus,Nonresident,2021,7
+204796,Ohio State University-Main Campus,Nonresident,2022,7
+204796,Ohio State University-Main Campus,Nonresident,2023,7
+204796,Ohio State University-Main Campus,Nonresident,2024,8
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,2014,3
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,2015,3
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,2016,4
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,2017,3
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,2018,3
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,2019,3
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,2020,3
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,2021,3
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,2022,3
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,2023,3
+204796,Ohio State University-Main Campus,Race/ethnicity unknown,2024,3
+204796,Ohio State University-Main Campus,White,2014,72
+204796,Ohio State University-Main Campus,White,2015,71
+204796,Ohio State University-Main Campus,White,2016,69
+204796,Ohio State University-Main Campus,White,2017,68
+204796,Ohio State University-Main Campus,White,2018,67
+204796,Ohio State University-Main Campus,White,2019,65
+204796,Ohio State University-Main Campus,White,2020,66
+204796,Ohio State University-Main Campus,White,2021,64
+204796,Ohio State University-Main Campus,White,2022,63
+204796,Ohio State University-Main Campus,White,2023,62
+204796,Ohio State University-Main Campus,White,2024,59
+204796,Ohio State University-Main Campus,two or more races,2014,3
+204796,Ohio State University-Main Campus,two or more races,2015,3
+204796,Ohio State University-Main Campus,two or more races,2016,3
+204796,Ohio State University-Main Campus,two or more races,2017,3
+204796,Ohio State University-Main Campus,two or more races,2018,4
+204796,Ohio State University-Main Campus,two or more races,2019,4
+204796,Ohio State University-Main Campus,two or more races,2020,4
+204796,Ohio State University-Main Campus,two or more races,2021,4
+204796,Ohio State University-Main Campus,two or more races,2022,4
+204796,Ohio State University-Main Campus,two or more races,2023,5
+204796,Ohio State University-Main Campus,two or more races,2024,5
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,2014,0
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,2015,0
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,2016,0
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,2017,0
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,2018,0
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,2019,0
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,2020,NA
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,2021,NA
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,2022,0
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,2023,0
+214777,Pennsylvania State University-Main Campus,American Indian or Alaska Native,2024,0
+214777,Pennsylvania State University-Main Campus,Asian,2014,6
+214777,Pennsylvania State University-Main Campus,Asian,2015,6
+214777,Pennsylvania State University-Main Campus,Asian,2016,6
+214777,Pennsylvania State University-Main Campus,Asian,2017,6
+214777,Pennsylvania State University-Main Campus,Asian,2018,6
+214777,Pennsylvania State University-Main Campus,Asian,2019,6
+214777,Pennsylvania State University-Main Campus,Asian,2020,NA
+214777,Pennsylvania State University-Main Campus,Asian,2021,NA
+214777,Pennsylvania State University-Main Campus,Asian,2022,7
+214777,Pennsylvania State University-Main Campus,Asian,2023,7
+214777,Pennsylvania State University-Main Campus,Asian,2024,8
+214777,Pennsylvania State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2014,6
+214777,Pennsylvania State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2015,6
+214777,Pennsylvania State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2016,6
+214777,Pennsylvania State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2017,6
+214777,Pennsylvania State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2018,6
+214777,Pennsylvania State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2019,7
+214777,Pennsylvania State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2020,NA
+214777,Pennsylvania State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2021,NA
+214777,Pennsylvania State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2022,7
+214777,Pennsylvania State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2023,7
+214777,Pennsylvania State University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2024,8
+214777,Pennsylvania State University-Main Campus,Black or African American,2014,4
+214777,Pennsylvania State University-Main Campus,Black or African American,2015,4
+214777,Pennsylvania State University-Main Campus,Black or African American,2016,4
+214777,Pennsylvania State University-Main Campus,Black or African American,2017,4
+214777,Pennsylvania State University-Main Campus,Black or African American,2018,4
+214777,Pennsylvania State University-Main Campus,Black or African American,2019,6
+214777,Pennsylvania State University-Main Campus,Black or African American,2020,NA
+214777,Pennsylvania State University-Main Campus,Black or African American,2021,NA
+214777,Pennsylvania State University-Main Campus,Black or African American,2022,4
+214777,Pennsylvania State University-Main Campus,Black or African American,2023,5
+214777,Pennsylvania State University-Main Campus,Black or African American,2024,5
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,2014,5
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,2015,6
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,2016,6
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,2017,7
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,2018,7
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,2019,8
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,2020,NA
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,2021,NA
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,2022,8
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,2023,9
+214777,Pennsylvania State University-Main Campus,Hispanic/Latino,2024,9
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,2014,0
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,2015,0
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,2016,0
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,2017,0
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,2018,0
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,2019,0
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,2020,NA
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,2021,NA
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,2022,0
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,2023,0
+214777,Pennsylvania State University-Main Campus,Native Hawaiian or Other Pacific Islander,2024,0
+214777,Pennsylvania State University-Main Campus,Nonresident,2014,10
+214777,Pennsylvania State University-Main Campus,Nonresident,2015,11
+214777,Pennsylvania State University-Main Campus,Nonresident,2016,12
+214777,Pennsylvania State University-Main Campus,Nonresident,2017,12
+214777,Pennsylvania State University-Main Campus,Nonresident,2018,12
+214777,Pennsylvania State University-Main Campus,Nonresident,2019,9
+214777,Pennsylvania State University-Main Campus,Nonresident,2020,NA
+214777,Pennsylvania State University-Main Campus,Nonresident,2021,NA
+214777,Pennsylvania State University-Main Campus,Nonresident,2022,11
+214777,Pennsylvania State University-Main Campus,Nonresident,2023,10
+214777,Pennsylvania State University-Main Campus,Nonresident,2024,9
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2014,2
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2015,2
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2016,2
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2017,2
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2018,2
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2019,2
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2020,NA
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2021,NA
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2022,3
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2023,2
+214777,Pennsylvania State University-Main Campus,Race/ethnicity unknown,2024,2
+214777,Pennsylvania State University-Main Campus,White,2014,70
+214777,Pennsylvania State University-Main Campus,White,2015,68
+214777,Pennsylvania State University-Main Campus,White,2016,67
+214777,Pennsylvania State University-Main Campus,White,2017,66
+214777,Pennsylvania State University-Main Campus,White,2018,66
+214777,Pennsylvania State University-Main Campus,White,2019,65
+214777,Pennsylvania State University-Main Campus,White,2020,NA
+214777,Pennsylvania State University-Main Campus,White,2021,NA
+214777,Pennsylvania State University-Main Campus,White,2022,63
+214777,Pennsylvania State University-Main Campus,White,2023,63
+214777,Pennsylvania State University-Main Campus,White,2024,63
+214777,Pennsylvania State University-Main Campus,two or more races,2014,2
+214777,Pennsylvania State University-Main Campus,two or more races,2015,3
+214777,Pennsylvania State University-Main Campus,two or more races,2016,3
+214777,Pennsylvania State University-Main Campus,two or more races,2017,3
+214777,Pennsylvania State University-Main Campus,two or more races,2018,3
+214777,Pennsylvania State University-Main Campus,two or more races,2019,3
+214777,Pennsylvania State University-Main Campus,two or more races,2020,NA
+214777,Pennsylvania State University-Main Campus,two or more races,2021,NA
+214777,Pennsylvania State University-Main Campus,two or more races,2022,4
+214777,Pennsylvania State University-Main Campus,two or more races,2023,4
+214777,Pennsylvania State University-Main Campus,two or more races,2024,4
+243780,Purdue University-Main Campus,American Indian or Alaska Native,2014,0
+243780,Purdue University-Main Campus,American Indian or Alaska Native,2015,0
+243780,Purdue University-Main Campus,American Indian or Alaska Native,2016,0
+243780,Purdue University-Main Campus,American Indian or Alaska Native,2017,0
+243780,Purdue University-Main Campus,American Indian or Alaska Native,2018,0
+243780,Purdue University-Main Campus,American Indian or Alaska Native,2019,0
+243780,Purdue University-Main Campus,American Indian or Alaska Native,2020,0
+243780,Purdue University-Main Campus,American Indian or Alaska Native,2021,0
+243780,Purdue University-Main Campus,American Indian or Alaska Native,2022,0
+243780,Purdue University-Main Campus,American Indian or Alaska Native,2023,0
+243780,Purdue University-Main Campus,American Indian or Alaska Native,2024,0
+243780,Purdue University-Main Campus,Asian,2014,5
+243780,Purdue University-Main Campus,Asian,2015,6
+243780,Purdue University-Main Campus,Asian,2016,7
+243780,Purdue University-Main Campus,Asian,2017,7
+243780,Purdue University-Main Campus,Asian,2018,9
+243780,Purdue University-Main Campus,Asian,2019,9
+243780,Purdue University-Main Campus,Asian,2020,10
+243780,Purdue University-Main Campus,Asian,2021,12
+243780,Purdue University-Main Campus,Asian,2022,13
+243780,Purdue University-Main Campus,Asian,2023,14
+243780,Purdue University-Main Campus,Asian,2024,15
+243780,Purdue University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2014,5
+243780,Purdue University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2015,6
+243780,Purdue University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2016,7
+243780,Purdue University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2017,7
+243780,Purdue University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2018,9
+243780,Purdue University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2019,9
+243780,Purdue University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2020,10
+243780,Purdue University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2021,12
+243780,Purdue University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2022,13
+243780,Purdue University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2023,14
+243780,Purdue University-Main Campus,Asian/Native Hawaiian/Pacific Islander,2024,15
+243780,Purdue University-Main Campus,Black or African American,2014,3
+243780,Purdue University-Main Campus,Black or African American,2015,3
+243780,Purdue University-Main Campus,Black or African American,2016,3
+243780,Purdue University-Main Campus,Black or African American,2017,3
+243780,Purdue University-Main Campus,Black or African American,2018,3
+243780,Purdue University-Main Campus,Black or African American,2019,3
+243780,Purdue University-Main Campus,Black or African American,2020,3
+243780,Purdue University-Main Campus,Black or African American,2021,2
+243780,Purdue University-Main Campus,Black or African American,2022,2
+243780,Purdue University-Main Campus,Black or African American,2023,3
+243780,Purdue University-Main Campus,Black or African American,2024,3
+243780,Purdue University-Main Campus,Hispanic/Latino,2014,4
+243780,Purdue University-Main Campus,Hispanic/Latino,2015,4
+243780,Purdue University-Main Campus,Hispanic/Latino,2016,5
+243780,Purdue University-Main Campus,Hispanic/Latino,2017,5
+243780,Purdue University-Main Campus,Hispanic/Latino,2018,5
+243780,Purdue University-Main Campus,Hispanic/Latino,2019,6
+243780,Purdue University-Main Campus,Hispanic/Latino,2020,6
+243780,Purdue University-Main Campus,Hispanic/Latino,2021,6
+243780,Purdue University-Main Campus,Hispanic/Latino,2022,7
+243780,Purdue University-Main Campus,Hispanic/Latino,2023,7
+243780,Purdue University-Main Campus,Hispanic/Latino,2024,7
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,2014,0
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,2015,0
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,2016,0
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,2017,0
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,2018,0
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,2019,0
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,2020,0
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,2021,0
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,2022,0
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,2023,0
+243780,Purdue University-Main Campus,Native Hawaiian or Other Pacific Islander,2024,0
+243780,Purdue University-Main Campus,Nonresident,2014,17
+243780,Purdue University-Main Campus,Nonresident,2015,17
+243780,Purdue University-Main Campus,Nonresident,2016,17
+243780,Purdue University-Main Campus,Nonresident,2017,15
+243780,Purdue University-Main Campus,Nonresident,2018,14
+243780,Purdue University-Main Campus,Nonresident,2019,13
+243780,Purdue University-Main Campus,Nonresident,2020,12
+243780,Purdue University-Main Campus,Nonresident,2021,11
+243780,Purdue University-Main Campus,Nonresident,2022,11
+243780,Purdue University-Main Campus,Nonresident,2023,10
+243780,Purdue University-Main Campus,Nonresident,2024,10
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2014,2
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2015,2
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2016,3
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2017,2
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2018,2
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2019,2
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2020,1
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2021,1
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2022,1
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2023,2
+243780,Purdue University-Main Campus,Race/ethnicity unknown,2024,6
+243780,Purdue University-Main Campus,White,2014,66
+243780,Purdue University-Main Campus,White,2015,65
+243780,Purdue University-Main Campus,White,2016,64
+243780,Purdue University-Main Campus,White,2017,64
+243780,Purdue University-Main Campus,White,2018,64
+243780,Purdue University-Main Campus,White,2019,64
+243780,Purdue University-Main Campus,White,2020,64
+243780,Purdue University-Main Campus,White,2021,63
+243780,Purdue University-Main Campus,White,2022,61
+243780,Purdue University-Main Campus,White,2023,59
+243780,Purdue University-Main Campus,White,2024,54
+243780,Purdue University-Main Campus,two or more races,2014,2
+243780,Purdue University-Main Campus,two or more races,2015,2
+243780,Purdue University-Main Campus,two or more races,2016,2
+243780,Purdue University-Main Campus,two or more races,2017,3
+243780,Purdue University-Main Campus,two or more races,2018,3
+243780,Purdue University-Main Campus,two or more races,2019,4
+243780,Purdue University-Main Campus,two or more races,2020,4
+243780,Purdue University-Main Campus,two or more races,2021,4
+243780,Purdue University-Main Campus,two or more races,2022,5
+243780,Purdue University-Main Campus,two or more races,2023,5
+243780,Purdue University-Main Campus,two or more races,2024,5
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,2014,0
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,2015,0
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,2016,0
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,2017,0
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,2018,0
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,2019,0
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,2020,0
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,2021,0
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,2022,0
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,2023,0
+186380,Rutgers University-New Brunswick,American Indian or Alaska Native,2024,0
+186380,Rutgers University-New Brunswick,Asian,2014,26
+186380,Rutgers University-New Brunswick,Asian,2015,26
+186380,Rutgers University-New Brunswick,Asian,2016,26
+186380,Rutgers University-New Brunswick,Asian,2017,27
+186380,Rutgers University-New Brunswick,Asian,2018,27
+186380,Rutgers University-New Brunswick,Asian,2019,29
+186380,Rutgers University-New Brunswick,Asian,2020,30
+186380,Rutgers University-New Brunswick,Asian,2021,31
+186380,Rutgers University-New Brunswick,Asian,2022,32
+186380,Rutgers University-New Brunswick,Asian,2023,33
+186380,Rutgers University-New Brunswick,Asian,2024,34
+186380,Rutgers University-New Brunswick,Asian/Native Hawaiian/Pacific Islander,2014,26
+186380,Rutgers University-New Brunswick,Asian/Native Hawaiian/Pacific Islander,2015,26
+186380,Rutgers University-New Brunswick,Asian/Native Hawaiian/Pacific Islander,2016,26
+186380,Rutgers University-New Brunswick,Asian/Native Hawaiian/Pacific Islander,2017,27
+186380,Rutgers University-New Brunswick,Asian/Native Hawaiian/Pacific Islander,2018,28
+186380,Rutgers University-New Brunswick,Asian/Native Hawaiian/Pacific Islander,2019,29
+186380,Rutgers University-New Brunswick,Asian/Native Hawaiian/Pacific Islander,2020,30
+186380,Rutgers University-New Brunswick,Asian/Native Hawaiian/Pacific Islander,2021,31
+186380,Rutgers University-New Brunswick,Asian/Native Hawaiian/Pacific Islander,2022,33
+186380,Rutgers University-New Brunswick,Asian/Native Hawaiian/Pacific Islander,2023,33
+186380,Rutgers University-New Brunswick,Asian/Native Hawaiian/Pacific Islander,2024,34
+186380,Rutgers University-New Brunswick,Black or African American,2014,7
+186380,Rutgers University-New Brunswick,Black or African American,2015,7
+186380,Rutgers University-New Brunswick,Black or African American,2016,8
+186380,Rutgers University-New Brunswick,Black or African American,2017,7
+186380,Rutgers University-New Brunswick,Black or African American,2018,7
+186380,Rutgers University-New Brunswick,Black or African American,2019,6
+186380,Rutgers University-New Brunswick,Black or African American,2020,6
+186380,Rutgers University-New Brunswick,Black or African American,2021,7
+186380,Rutgers University-New Brunswick,Black or African American,2022,7
+186380,Rutgers University-New Brunswick,Black or African American,2023,7
+186380,Rutgers University-New Brunswick,Black or African American,2024,7
+186380,Rutgers University-New Brunswick,Hispanic/Latino,2014,12
+186380,Rutgers University-New Brunswick,Hispanic/Latino,2015,13
+186380,Rutgers University-New Brunswick,Hispanic/Latino,2016,13
+186380,Rutgers University-New Brunswick,Hispanic/Latino,2017,13
+186380,Rutgers University-New Brunswick,Hispanic/Latino,2018,13
+186380,Rutgers University-New Brunswick,Hispanic/Latino,2019,13
+186380,Rutgers University-New Brunswick,Hispanic/Latino,2020,13
+186380,Rutgers University-New Brunswick,Hispanic/Latino,2021,14
+186380,Rutgers University-New Brunswick,Hispanic/Latino,2022,15
+186380,Rutgers University-New Brunswick,Hispanic/Latino,2023,16
+186380,Rutgers University-New Brunswick,Hispanic/Latino,2024,16
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,2014,0
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,2015,0
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,2016,0
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,2017,0
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,2018,0
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,2019,0
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,2020,0
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,2021,0
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,2022,0
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,2023,0
+186380,Rutgers University-New Brunswick,Native Hawaiian or Other Pacific Islander,2024,0
+186380,Rutgers University-New Brunswick,Nonresident,2014,6
+186380,Rutgers University-New Brunswick,Nonresident,2015,7
+186380,Rutgers University-New Brunswick,Nonresident,2016,8
+186380,Rutgers University-New Brunswick,Nonresident,2017,9
+186380,Rutgers University-New Brunswick,Nonresident,2018,9
+186380,Rutgers University-New Brunswick,Nonresident,2019,10
+186380,Rutgers University-New Brunswick,Nonresident,2020,10
+186380,Rutgers University-New Brunswick,Nonresident,2021,9
+186380,Rutgers University-New Brunswick,Nonresident,2022,7
+186380,Rutgers University-New Brunswick,Nonresident,2023,7
+186380,Rutgers University-New Brunswick,Nonresident,2024,7
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2014,2
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2015,2
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2016,2
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2017,2
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2018,2
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2019,2
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2020,2
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2021,2
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2022,2
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2023,2
+186380,Rutgers University-New Brunswick,Race/ethnicity unknown,2024,3
+186380,Rutgers University-New Brunswick,White,2014,43
+186380,Rutgers University-New Brunswick,White,2015,41
+186380,Rutgers University-New Brunswick,White,2016,40
+186380,Rutgers University-New Brunswick,White,2017,39
+186380,Rutgers University-New Brunswick,White,2018,38
+186380,Rutgers University-New Brunswick,White,2019,36
+186380,Rutgers University-New Brunswick,White,2020,35
+186380,Rutgers University-New Brunswick,White,2021,34
+186380,Rutgers University-New Brunswick,White,2022,32
+186380,Rutgers University-New Brunswick,White,2023,31
+186380,Rutgers University-New Brunswick,White,2024,30
+186380,Rutgers University-New Brunswick,two or more races,2014,3
+186380,Rutgers University-New Brunswick,two or more races,2015,3
+186380,Rutgers University-New Brunswick,two or more races,2016,3
+186380,Rutgers University-New Brunswick,two or more races,2017,3
+186380,Rutgers University-New Brunswick,two or more races,2018,4
+186380,Rutgers University-New Brunswick,two or more races,2019,4
+186380,Rutgers University-New Brunswick,two or more races,2020,4
+186380,Rutgers University-New Brunswick,two or more races,2021,4
+186380,Rutgers University-New Brunswick,two or more races,2022,4
+186380,Rutgers University-New Brunswick,two or more races,2023,4
+186380,Rutgers University-New Brunswick,two or more races,2024,4
+110662,University of California-Los Angeles,American Indian or Alaska Native,2014,0
+110662,University of California-Los Angeles,American Indian or Alaska Native,2015,0
+110662,University of California-Los Angeles,American Indian or Alaska Native,2016,0
+110662,University of California-Los Angeles,American Indian or Alaska Native,2017,0
+110662,University of California-Los Angeles,American Indian or Alaska Native,2018,0
+110662,University of California-Los Angeles,American Indian or Alaska Native,2019,0
+110662,University of California-Los Angeles,American Indian or Alaska Native,2020,0
+110662,University of California-Los Angeles,American Indian or Alaska Native,2021,0
+110662,University of California-Los Angeles,American Indian or Alaska Native,2022,0
+110662,University of California-Los Angeles,American Indian or Alaska Native,2023,0
+110662,University of California-Los Angeles,American Indian or Alaska Native,2024,0
+110662,University of California-Los Angeles,Asian,2014,30
+110662,University of California-Los Angeles,Asian,2015,29
+110662,University of California-Los Angeles,Asian,2016,29
+110662,University of California-Los Angeles,Asian,2017,28
+110662,University of California-Los Angeles,Asian,2018,28
+110662,University of California-Los Angeles,Asian,2019,28
+110662,University of California-Los Angeles,Asian,2020,29
+110662,University of California-Los Angeles,Asian,2021,29
+110662,University of California-Los Angeles,Asian,2022,29
+110662,University of California-Los Angeles,Asian,2023,30
+110662,University of California-Los Angeles,Asian,2024,30
+110662,University of California-Los Angeles,Asian/Native Hawaiian/Pacific Islander,2014,30
+110662,University of California-Los Angeles,Asian/Native Hawaiian/Pacific Islander,2015,30
+110662,University of California-Los Angeles,Asian/Native Hawaiian/Pacific Islander,2016,29
+110662,University of California-Los Angeles,Asian/Native Hawaiian/Pacific Islander,2017,28
+110662,University of California-Los Angeles,Asian/Native Hawaiian/Pacific Islander,2018,28
+110662,University of California-Los Angeles,Asian/Native Hawaiian/Pacific Islander,2019,28
+110662,University of California-Los Angeles,Asian/Native Hawaiian/Pacific Islander,2020,29
+110662,University of California-Los Angeles,Asian/Native Hawaiian/Pacific Islander,2021,29
+110662,University of California-Los Angeles,Asian/Native Hawaiian/Pacific Islander,2022,30
+110662,University of California-Los Angeles,Asian/Native Hawaiian/Pacific Islander,2023,30
+110662,University of California-Los Angeles,Asian/Native Hawaiian/Pacific Islander,2024,30
+110662,University of California-Los Angeles,Black or African American,2014,3
+110662,University of California-Los Angeles,Black or African American,2015,3
+110662,University of California-Los Angeles,Black or African American,2016,3
+110662,University of California-Los Angeles,Black or African American,2017,3
+110662,University of California-Los Angeles,Black or African American,2018,3
+110662,University of California-Los Angeles,Black or African American,2019,3
+110662,University of California-Los Angeles,Black or African American,2020,3
+110662,University of California-Los Angeles,Black or African American,2021,3
+110662,University of California-Los Angeles,Black or African American,2022,3
+110662,University of California-Los Angeles,Black or African American,2023,3
+110662,University of California-Los Angeles,Black or African American,2024,3
+110662,University of California-Los Angeles,Hispanic/Latino,2014,20
+110662,University of California-Los Angeles,Hispanic/Latino,2015,21
+110662,University of California-Los Angeles,Hispanic/Latino,2016,22
+110662,University of California-Los Angeles,Hispanic/Latino,2017,22
+110662,University of California-Los Angeles,Hispanic/Latino,2018,22
+110662,University of California-Los Angeles,Hispanic/Latino,2019,22
+110662,University of California-Los Angeles,Hispanic/Latino,2020,22
+110662,University of California-Los Angeles,Hispanic/Latino,2021,22
+110662,University of California-Los Angeles,Hispanic/Latino,2022,22
+110662,University of California-Los Angeles,Hispanic/Latino,2023,23
+110662,University of California-Los Angeles,Hispanic/Latino,2024,24
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,2014,0
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,2015,0
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,2016,0
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,2017,0
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,2018,0
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,2019,0
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,2020,0
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,2021,0
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,2022,0
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,2023,0
+110662,University of California-Los Angeles,Native Hawaiian or Other Pacific Islander,2024,0
+110662,University of California-Los Angeles,Nonresident,2014,13
+110662,University of California-Los Angeles,Nonresident,2015,13
+110662,University of California-Los Angeles,Nonresident,2016,12
+110662,University of California-Los Angeles,Nonresident,2017,12
+110662,University of California-Los Angeles,Nonresident,2018,12
+110662,University of California-Los Angeles,Nonresident,2019,11
+110662,University of California-Los Angeles,Nonresident,2020,10
+110662,University of California-Los Angeles,Nonresident,2021,10
+110662,University of California-Los Angeles,Nonresident,2022,9
+110662,University of California-Los Angeles,Nonresident,2023,8
+110662,University of California-Los Angeles,Nonresident,2024,8
+110662,University of California-Los Angeles,Race/ethnicity unknown,2014,2
+110662,University of California-Los Angeles,Race/ethnicity unknown,2015,2
+110662,University of California-Los Angeles,Race/ethnicity unknown,2016,2
+110662,University of California-Los Angeles,Race/ethnicity unknown,2017,2
+110662,University of California-Los Angeles,Race/ethnicity unknown,2018,2
+110662,University of California-Los Angeles,Race/ethnicity unknown,2019,3
+110662,University of California-Los Angeles,Race/ethnicity unknown,2020,3
+110662,University of California-Los Angeles,Race/ethnicity unknown,2021,3
+110662,University of California-Los Angeles,Race/ethnicity unknown,2022,3
+110662,University of California-Los Angeles,Race/ethnicity unknown,2023,3
+110662,University of California-Los Angeles,Race/ethnicity unknown,2024,3
+110662,University of California-Los Angeles,White,2014,28
+110662,University of California-Los Angeles,White,2015,27
+110662,University of California-Los Angeles,White,2016,27
+110662,University of California-Los Angeles,White,2017,27
+110662,University of California-Los Angeles,White,2018,27
+110662,University of California-Los Angeles,White,2019,26
+110662,University of California-Los Angeles,White,2020,26
+110662,University of California-Los Angeles,White,2021,26
+110662,University of California-Los Angeles,White,2022,26
+110662,University of California-Los Angeles,White,2023,25
+110662,University of California-Los Angeles,White,2024,24
+110662,University of California-Los Angeles,two or more races,2014,5
+110662,University of California-Los Angeles,two or more races,2015,5
+110662,University of California-Los Angeles,two or more races,2016,5
+110662,University of California-Los Angeles,two or more races,2017,5
+110662,University of California-Los Angeles,two or more races,2018,5
+110662,University of California-Los Angeles,two or more races,2019,6
+110662,University of California-Los Angeles,two or more races,2020,6
+110662,University of California-Los Angeles,two or more races,2021,7
+110662,University of California-Los Angeles,two or more races,2022,7
+110662,University of California-Los Angeles,two or more races,2023,8
+110662,University of California-Los Angeles,two or more races,2024,8
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,2014,0
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,2015,0
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,2016,0
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,2017,0
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,2018,0
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,2019,0
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,2020,0
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,2021,0
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,2022,0
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,2023,0
+145637,University of Illinois Urbana-Champaign,American Indian or Alaska Native,2024,0
+145637,University of Illinois Urbana-Champaign,Asian,2014,16
+145637,University of Illinois Urbana-Champaign,Asian,2015,17
+145637,University of Illinois Urbana-Champaign,Asian,2016,18
+145637,University of Illinois Urbana-Champaign,Asian,2017,18
+145637,University of Illinois Urbana-Champaign,Asian,2018,19
+145637,University of Illinois Urbana-Champaign,Asian,2019,19
+145637,University of Illinois Urbana-Champaign,Asian,2020,20
+145637,University of Illinois Urbana-Champaign,Asian,2021,21
+145637,University of Illinois Urbana-Champaign,Asian,2022,22
+145637,University of Illinois Urbana-Champaign,Asian,2023,22
+145637,University of Illinois Urbana-Champaign,Asian,2024,23
+145637,University of Illinois Urbana-Champaign,Asian/Native Hawaiian/Pacific Islander,2014,16
+145637,University of Illinois Urbana-Champaign,Asian/Native Hawaiian/Pacific Islander,2015,17
+145637,University of Illinois Urbana-Champaign,Asian/Native Hawaiian/Pacific Islander,2016,18
+145637,University of Illinois Urbana-Champaign,Asian/Native Hawaiian/Pacific Islander,2017,18
+145637,University of Illinois Urbana-Champaign,Asian/Native Hawaiian/Pacific Islander,2018,19
+145637,University of Illinois Urbana-Champaign,Asian/Native Hawaiian/Pacific Islander,2019,19
+145637,University of Illinois Urbana-Champaign,Asian/Native Hawaiian/Pacific Islander,2020,20
+145637,University of Illinois Urbana-Champaign,Asian/Native Hawaiian/Pacific Islander,2021,21
+145637,University of Illinois Urbana-Champaign,Asian/Native Hawaiian/Pacific Islander,2022,22
+145637,University of Illinois Urbana-Champaign,Asian/Native Hawaiian/Pacific Islander,2023,23
+145637,University of Illinois Urbana-Champaign,Asian/Native Hawaiian/Pacific Islander,2024,23
+145637,University of Illinois Urbana-Champaign,Black or African American,2014,5
+145637,University of Illinois Urbana-Champaign,Black or African American,2015,5
+145637,University of Illinois Urbana-Champaign,Black or African American,2016,6
+145637,University of Illinois Urbana-Champaign,Black or African American,2017,6
+145637,University of Illinois Urbana-Champaign,Black or African American,2018,6
+145637,University of Illinois Urbana-Champaign,Black or African American,2019,6
+145637,University of Illinois Urbana-Champaign,Black or African American,2020,6
+145637,University of Illinois Urbana-Champaign,Black or African American,2021,6
+145637,University of Illinois Urbana-Champaign,Black or African American,2022,6
+145637,University of Illinois Urbana-Champaign,Black or African American,2023,5
+145637,University of Illinois Urbana-Champaign,Black or African American,2024,5
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,2014,9
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,2015,9
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,2016,10
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,2017,11
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,2018,12
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,2019,13
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,2020,14
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,2021,14
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,2022,13
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,2023,14
+145637,University of Illinois Urbana-Champaign,Hispanic/Latino,2024,14
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,2014,0
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,2015,0
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,2016,0
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,2017,0
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,2018,0
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,2019,0
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,2020,0
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,2021,0
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,2022,0
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,2023,0
+145637,University of Illinois Urbana-Champaign,Native Hawaiian or Other Pacific Islander,2024,0
+145637,University of Illinois Urbana-Champaign,Nonresident,2014,16
+145637,University of Illinois Urbana-Champaign,Nonresident,2015,17
+145637,University of Illinois Urbana-Champaign,Nonresident,2016,16
+145637,University of Illinois Urbana-Champaign,Nonresident,2017,16
+145637,University of Illinois Urbana-Champaign,Nonresident,2018,16
+145637,University of Illinois Urbana-Champaign,Nonresident,2019,15
+145637,University of Illinois Urbana-Champaign,Nonresident,2020,13
+145637,University of Illinois Urbana-Champaign,Nonresident,2021,14
+145637,University of Illinois Urbana-Champaign,Nonresident,2022,15
+145637,University of Illinois Urbana-Champaign,Nonresident,2023,15
+145637,University of Illinois Urbana-Champaign,Nonresident,2024,15
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,2014,1
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,2015,1
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,2016,0
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,2017,0
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,2018,1
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,2019,1
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,2020,1
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,2021,2
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,2022,1
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,2023,1
+145637,University of Illinois Urbana-Champaign,Race/ethnicity unknown,2024,2
+145637,University of Illinois Urbana-Champaign,White,2014,50
+145637,University of Illinois Urbana-Champaign,White,2015,48
+145637,University of Illinois Urbana-Champaign,White,2016,46
+145637,University of Illinois Urbana-Champaign,White,2017,45
+145637,University of Illinois Urbana-Champaign,White,2018,44
+145637,University of Illinois Urbana-Champaign,White,2019,43
+145637,University of Illinois Urbana-Champaign,White,2020,42
+145637,University of Illinois Urbana-Champaign,White,2021,40
+145637,University of Illinois Urbana-Champaign,White,2022,39
+145637,University of Illinois Urbana-Champaign,White,2023,38
+145637,University of Illinois Urbana-Champaign,White,2024,37
+145637,University of Illinois Urbana-Champaign,two or more races,2014,3
+145637,University of Illinois Urbana-Champaign,two or more races,2015,3
+145637,University of Illinois Urbana-Champaign,two or more races,2016,3
+145637,University of Illinois Urbana-Champaign,two or more races,2017,3
+145637,University of Illinois Urbana-Champaign,two or more races,2018,3
+145637,University of Illinois Urbana-Champaign,two or more races,2019,3
+145637,University of Illinois Urbana-Champaign,two or more races,2020,4
+145637,University of Illinois Urbana-Champaign,two or more races,2021,4
+145637,University of Illinois Urbana-Champaign,two or more races,2022,4
+145637,University of Illinois Urbana-Champaign,two or more races,2023,4
+145637,University of Illinois Urbana-Champaign,two or more races,2024,4
+153658,University of Iowa,American Indian or Alaska Native,2014,0
+153658,University of Iowa,American Indian or Alaska Native,2015,0
+153658,University of Iowa,American Indian or Alaska Native,2016,0
+153658,University of Iowa,American Indian or Alaska Native,2017,0
+153658,University of Iowa,American Indian or Alaska Native,2018,0
+153658,University of Iowa,American Indian or Alaska Native,2019,0
+153658,University of Iowa,American Indian or Alaska Native,2020,0
+153658,University of Iowa,American Indian or Alaska Native,2021,0
+153658,University of Iowa,American Indian or Alaska Native,2022,0
+153658,University of Iowa,American Indian or Alaska Native,2023,0
+153658,University of Iowa,American Indian or Alaska Native,2024,0
+153658,University of Iowa,Asian,2014,3
+153658,University of Iowa,Asian,2015,4
+153658,University of Iowa,Asian,2016,4
+153658,University of Iowa,Asian,2017,4
+153658,University of Iowa,Asian,2018,4
+153658,University of Iowa,Asian,2019,4
+153658,University of Iowa,Asian,2020,5
+153658,University of Iowa,Asian,2021,5
+153658,University of Iowa,Asian,2022,5
+153658,University of Iowa,Asian,2023,5
+153658,University of Iowa,Asian,2024,5
+153658,University of Iowa,Asian/Native Hawaiian/Pacific Islander,2014,3
+153658,University of Iowa,Asian/Native Hawaiian/Pacific Islander,2015,4
+153658,University of Iowa,Asian/Native Hawaiian/Pacific Islander,2016,4
+153658,University of Iowa,Asian/Native Hawaiian/Pacific Islander,2017,4
+153658,University of Iowa,Asian/Native Hawaiian/Pacific Islander,2018,4
+153658,University of Iowa,Asian/Native Hawaiian/Pacific Islander,2019,4
+153658,University of Iowa,Asian/Native Hawaiian/Pacific Islander,2020,5
+153658,University of Iowa,Asian/Native Hawaiian/Pacific Islander,2021,5
+153658,University of Iowa,Asian/Native Hawaiian/Pacific Islander,2022,5
+153658,University of Iowa,Asian/Native Hawaiian/Pacific Islander,2023,5
+153658,University of Iowa,Asian/Native Hawaiian/Pacific Islander,2024,5
+153658,University of Iowa,Black or African American,2014,3
+153658,University of Iowa,Black or African American,2015,3
+153658,University of Iowa,Black or African American,2016,3
+153658,University of Iowa,Black or African American,2017,3
+153658,University of Iowa,Black or African American,2018,3
+153658,University of Iowa,Black or African American,2019,3
+153658,University of Iowa,Black or African American,2020,3
+153658,University of Iowa,Black or African American,2021,3
+153658,University of Iowa,Black or African American,2022,3
+153658,University of Iowa,Black or African American,2023,3
+153658,University of Iowa,Black or African American,2024,3
+153658,University of Iowa,Hispanic/Latino,2014,6
+153658,University of Iowa,Hispanic/Latino,2015,7
+153658,University of Iowa,Hispanic/Latino,2016,7
+153658,University of Iowa,Hispanic/Latino,2017,7
+153658,University of Iowa,Hispanic/Latino,2018,8
+153658,University of Iowa,Hispanic/Latino,2019,8
+153658,University of Iowa,Hispanic/Latino,2020,8
+153658,University of Iowa,Hispanic/Latino,2021,8
+153658,University of Iowa,Hispanic/Latino,2022,9
+153658,University of Iowa,Hispanic/Latino,2023,9
+153658,University of Iowa,Hispanic/Latino,2024,9
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,2014,0
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,2015,0
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,2016,0
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,2017,0
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,2018,0
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,2019,0
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,2020,0
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,2021,0
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,2022,0
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,2023,0
+153658,University of Iowa,Native Hawaiian or Other Pacific Islander,2024,0
+153658,University of Iowa,Nonresident,2014,11
+153658,University of Iowa,Nonresident,2015,11
+153658,University of Iowa,Nonresident,2016,10
+153658,University of Iowa,Nonresident,2017,8
+153658,University of Iowa,Nonresident,2018,7
+153658,University of Iowa,Nonresident,2019,5
+153658,University of Iowa,Nonresident,2020,4
+153658,University of Iowa,Nonresident,2021,3
+153658,University of Iowa,Nonresident,2022,2
+153658,University of Iowa,Nonresident,2023,2
+153658,University of Iowa,Nonresident,2024,1
+153658,University of Iowa,Race/ethnicity unknown,2014,6
+153658,University of Iowa,Race/ethnicity unknown,2015,4
+153658,University of Iowa,Race/ethnicity unknown,2016,3
+153658,University of Iowa,Race/ethnicity unknown,2017,3
+153658,University of Iowa,Race/ethnicity unknown,2018,2
+153658,University of Iowa,Race/ethnicity unknown,2019,2
+153658,University of Iowa,Race/ethnicity unknown,2020,2
+153658,University of Iowa,Race/ethnicity unknown,2021,3
+153658,University of Iowa,Race/ethnicity unknown,2022,3
+153658,University of Iowa,Race/ethnicity unknown,2023,3
+153658,University of Iowa,Race/ethnicity unknown,2024,4
+153658,University of Iowa,White,2014,68
+153658,University of Iowa,White,2015,67
+153658,University of Iowa,White,2016,69
+153658,University of Iowa,White,2017,71
+153658,University of Iowa,White,2018,72
+153658,University of Iowa,White,2019,74
+153658,University of Iowa,White,2020,74
+153658,University of Iowa,White,2021,74
+153658,University of Iowa,White,2022,74
+153658,University of Iowa,White,2023,74
+153658,University of Iowa,White,2024,74
+153658,University of Iowa,two or more races,2014,2
+153658,University of Iowa,two or more races,2015,3
+153658,University of Iowa,two or more races,2016,3
+153658,University of Iowa,two or more races,2017,3
+153658,University of Iowa,two or more races,2018,3
+153658,University of Iowa,two or more races,2019,3
+153658,University of Iowa,two or more races,2020,4
+153658,University of Iowa,two or more races,2021,4
+153658,University of Iowa,two or more races,2022,4
+153658,University of Iowa,two or more races,2023,4
+153658,University of Iowa,two or more races,2024,4
+163286,University of Maryland-College Park,American Indian or Alaska Native,2014,0
+163286,University of Maryland-College Park,American Indian or Alaska Native,2015,0
+163286,University of Maryland-College Park,American Indian or Alaska Native,2016,0
+163286,University of Maryland-College Park,American Indian or Alaska Native,2017,0
+163286,University of Maryland-College Park,American Indian or Alaska Native,2018,0
+163286,University of Maryland-College Park,American Indian or Alaska Native,2019,0
+163286,University of Maryland-College Park,American Indian or Alaska Native,2020,0
+163286,University of Maryland-College Park,American Indian or Alaska Native,2021,0
+163286,University of Maryland-College Park,American Indian or Alaska Native,2022,0
+163286,University of Maryland-College Park,American Indian or Alaska Native,2023,0
+163286,University of Maryland-College Park,American Indian or Alaska Native,2024,0
+163286,University of Maryland-College Park,Asian,2014,16
+163286,University of Maryland-College Park,Asian,2015,16
+163286,University of Maryland-College Park,Asian,2016,16
+163286,University of Maryland-College Park,Asian,2017,17
+163286,University of Maryland-College Park,Asian,2018,17
+163286,University of Maryland-College Park,Asian,2019,18
+163286,University of Maryland-College Park,Asian,2020,19
+163286,University of Maryland-College Park,Asian,2021,20
+163286,University of Maryland-College Park,Asian,2022,22
+163286,University of Maryland-College Park,Asian,2023,24
+163286,University of Maryland-College Park,Asian,2024,24
+163286,University of Maryland-College Park,Asian/Native Hawaiian/Pacific Islander,2014,16
+163286,University of Maryland-College Park,Asian/Native Hawaiian/Pacific Islander,2015,16
+163286,University of Maryland-College Park,Asian/Native Hawaiian/Pacific Islander,2016,16
+163286,University of Maryland-College Park,Asian/Native Hawaiian/Pacific Islander,2017,17
+163286,University of Maryland-College Park,Asian/Native Hawaiian/Pacific Islander,2018,17
+163286,University of Maryland-College Park,Asian/Native Hawaiian/Pacific Islander,2019,18
+163286,University of Maryland-College Park,Asian/Native Hawaiian/Pacific Islander,2020,19
+163286,University of Maryland-College Park,Asian/Native Hawaiian/Pacific Islander,2021,20
+163286,University of Maryland-College Park,Asian/Native Hawaiian/Pacific Islander,2022,22
+163286,University of Maryland-College Park,Asian/Native Hawaiian/Pacific Islander,2023,24
+163286,University of Maryland-College Park,Asian/Native Hawaiian/Pacific Islander,2024,24
+163286,University of Maryland-College Park,Black or African American,2014,13
+163286,University of Maryland-College Park,Black or African American,2015,13
+163286,University of Maryland-College Park,Black or African American,2016,13
+163286,University of Maryland-College Park,Black or African American,2017,13
+163286,University of Maryland-College Park,Black or African American,2018,12
+163286,University of Maryland-College Park,Black or African American,2019,11
+163286,University of Maryland-College Park,Black or African American,2020,12
+163286,University of Maryland-College Park,Black or African American,2021,12
+163286,University of Maryland-College Park,Black or African American,2022,13
+163286,University of Maryland-College Park,Black or African American,2023,13
+163286,University of Maryland-College Park,Black or African American,2024,13
+163286,University of Maryland-College Park,Hispanic/Latino,2014,9
+163286,University of Maryland-College Park,Hispanic/Latino,2015,9
+163286,University of Maryland-College Park,Hispanic/Latino,2016,10
+163286,University of Maryland-College Park,Hispanic/Latino,2017,10
+163286,University of Maryland-College Park,Hispanic/Latino,2018,10
+163286,University of Maryland-College Park,Hispanic/Latino,2019,9
+163286,University of Maryland-College Park,Hispanic/Latino,2020,10
+163286,University of Maryland-College Park,Hispanic/Latino,2021,10
+163286,University of Maryland-College Park,Hispanic/Latino,2022,10
+163286,University of Maryland-College Park,Hispanic/Latino,2023,11
+163286,University of Maryland-College Park,Hispanic/Latino,2024,11
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,2014,0
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,2015,0
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,2016,0
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,2017,0
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,2018,0
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,2019,0
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,2020,0
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,2021,0
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,2022,0
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,2023,0
+163286,University of Maryland-College Park,Native Hawaiian or Other Pacific Islander,2024,0
+163286,University of Maryland-College Park,Nonresident,2014,4
+163286,University of Maryland-College Park,Nonresident,2015,4
+163286,University of Maryland-College Park,Nonresident,2016,4
+163286,University of Maryland-College Park,Nonresident,2017,5
+163286,University of Maryland-College Park,Nonresident,2018,5
+163286,University of Maryland-College Park,Nonresident,2019,5
+163286,University of Maryland-College Park,Nonresident,2020,4
+163286,University of Maryland-College Park,Nonresident,2021,4
+163286,University of Maryland-College Park,Nonresident,2022,4
+163286,University of Maryland-College Park,Nonresident,2023,4
+163286,University of Maryland-College Park,Nonresident,2024,4
+163286,University of Maryland-College Park,Race/ethnicity unknown,2014,2
+163286,University of Maryland-College Park,Race/ethnicity unknown,2015,2
+163286,University of Maryland-College Park,Race/ethnicity unknown,2016,2
+163286,University of Maryland-College Park,Race/ethnicity unknown,2017,2
+163286,University of Maryland-College Park,Race/ethnicity unknown,2018,3
+163286,University of Maryland-College Park,Race/ethnicity unknown,2019,3
+163286,University of Maryland-College Park,Race/ethnicity unknown,2020,4
+163286,University of Maryland-College Park,Race/ethnicity unknown,2021,4
+163286,University of Maryland-College Park,Race/ethnicity unknown,2022,5
+163286,University of Maryland-College Park,Race/ethnicity unknown,2023,5
+163286,University of Maryland-College Park,Race/ethnicity unknown,2024,5
+163286,University of Maryland-College Park,White,2014,52
+163286,University of Maryland-College Park,White,2015,52
+163286,University of Maryland-College Park,White,2016,51
+163286,University of Maryland-College Park,White,2017,50
+163286,University of Maryland-College Park,White,2018,49
+163286,University of Maryland-College Park,White,2019,48
+163286,University of Maryland-College Park,White,2020,47
+163286,University of Maryland-College Park,White,2021,45
+163286,University of Maryland-College Park,White,2022,42
+163286,University of Maryland-College Park,White,2023,40
+163286,University of Maryland-College Park,White,2024,38
+163286,University of Maryland-College Park,two or more races,2014,4
+163286,University of Maryland-College Park,two or more races,2015,4
+163286,University of Maryland-College Park,two or more races,2016,4
+163286,University of Maryland-College Park,two or more races,2017,4
+163286,University of Maryland-College Park,two or more races,2018,4
+163286,University of Maryland-College Park,two or more races,2019,4
+163286,University of Maryland-College Park,two or more races,2020,5
+163286,University of Maryland-College Park,two or more races,2021,5
+163286,University of Maryland-College Park,two or more races,2022,5
+163286,University of Maryland-College Park,two or more races,2023,5
+163286,University of Maryland-College Park,two or more races,2024,5
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,2014,0
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,2015,0
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,2016,0
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,2017,0
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,2018,0
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,2019,0
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,2020,0
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,2021,0
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,2022,0
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,2023,0
+170976,University of Michigan-Ann Arbor,American Indian or Alaska Native,2024,0
+170976,University of Michigan-Ann Arbor,Asian,2014,13
+170976,University of Michigan-Ann Arbor,Asian,2015,13
+170976,University of Michigan-Ann Arbor,Asian,2016,14
+170976,University of Michigan-Ann Arbor,Asian,2017,14
+170976,University of Michigan-Ann Arbor,Asian,2018,15
+170976,University of Michigan-Ann Arbor,Asian,2019,16
+170976,University of Michigan-Ann Arbor,Asian,2020,16
+170976,University of Michigan-Ann Arbor,Asian,2021,17
+170976,University of Michigan-Ann Arbor,Asian,2022,18
+170976,University of Michigan-Ann Arbor,Asian,2023,19
+170976,University of Michigan-Ann Arbor,Asian,2024,18
+170976,University of Michigan-Ann Arbor,Asian/Native Hawaiian/Pacific Islander,2014,13
+170976,University of Michigan-Ann Arbor,Asian/Native Hawaiian/Pacific Islander,2015,13
+170976,University of Michigan-Ann Arbor,Asian/Native Hawaiian/Pacific Islander,2016,14
+170976,University of Michigan-Ann Arbor,Asian/Native Hawaiian/Pacific Islander,2017,14
+170976,University of Michigan-Ann Arbor,Asian/Native Hawaiian/Pacific Islander,2018,15
+170976,University of Michigan-Ann Arbor,Asian/Native Hawaiian/Pacific Islander,2019,16
+170976,University of Michigan-Ann Arbor,Asian/Native Hawaiian/Pacific Islander,2020,16
+170976,University of Michigan-Ann Arbor,Asian/Native Hawaiian/Pacific Islander,2021,17
+170976,University of Michigan-Ann Arbor,Asian/Native Hawaiian/Pacific Islander,2022,18
+170976,University of Michigan-Ann Arbor,Asian/Native Hawaiian/Pacific Islander,2023,19
+170976,University of Michigan-Ann Arbor,Asian/Native Hawaiian/Pacific Islander,2024,18
+170976,University of Michigan-Ann Arbor,Black or African American,2014,4
+170976,University of Michigan-Ann Arbor,Black or African American,2015,4
+170976,University of Michigan-Ann Arbor,Black or African American,2016,4
+170976,University of Michigan-Ann Arbor,Black or African American,2017,4
+170976,University of Michigan-Ann Arbor,Black or African American,2018,4
+170976,University of Michigan-Ann Arbor,Black or African American,2019,4
+170976,University of Michigan-Ann Arbor,Black or African American,2020,4
+170976,University of Michigan-Ann Arbor,Black or African American,2021,4
+170976,University of Michigan-Ann Arbor,Black or African American,2022,4
+170976,University of Michigan-Ann Arbor,Black or African American,2023,5
+170976,University of Michigan-Ann Arbor,Black or African American,2024,5
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,2014,4
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,2015,5
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,2016,5
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,2017,6
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,2018,6
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,2019,7
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,2020,7
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,2021,7
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,2022,8
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,2023,10
+170976,University of Michigan-Ann Arbor,Hispanic/Latino,2024,12
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,2014,0
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,2015,0
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,2016,0
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,2017,0
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,2018,0
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,2019,0
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,2020,0
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,2021,0
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,2022,0
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,2023,0
+170976,University of Michigan-Ann Arbor,Native Hawaiian or Other Pacific Islander,2024,0
+170976,University of Michigan-Ann Arbor,Nonresident,2014,7
+170976,University of Michigan-Ann Arbor,Nonresident,2015,7
+170976,University of Michigan-Ann Arbor,Nonresident,2016,7
+170976,University of Michigan-Ann Arbor,Nonresident,2017,7
+170976,University of Michigan-Ann Arbor,Nonresident,2018,7
+170976,University of Michigan-Ann Arbor,Nonresident,2019,8
+170976,University of Michigan-Ann Arbor,Nonresident,2020,7
+170976,University of Michigan-Ann Arbor,Nonresident,2021,8
+170976,University of Michigan-Ann Arbor,Nonresident,2022,9
+170976,University of Michigan-Ann Arbor,Nonresident,2023,8
+170976,University of Michigan-Ann Arbor,Nonresident,2024,8
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,2014,7
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,2015,6
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,2016,5
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,2017,5
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,2018,5
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,2019,5
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,2020,5
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,2021,5
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,2022,5
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,2023,4
+170976,University of Michigan-Ann Arbor,Race/ethnicity unknown,2024,4
+170976,University of Michigan-Ann Arbor,White,2014,62
+170976,University of Michigan-Ann Arbor,White,2015,61
+170976,University of Michigan-Ann Arbor,White,2016,61
+170976,University of Michigan-Ann Arbor,White,2017,60
+170976,University of Michigan-Ann Arbor,White,2018,58
+170976,University of Michigan-Ann Arbor,White,2019,56
+170976,University of Michigan-Ann Arbor,White,2020,55
+170976,University of Michigan-Ann Arbor,White,2021,53
+170976,University of Michigan-Ann Arbor,White,2022,51
+170976,University of Michigan-Ann Arbor,White,2023,49
+170976,University of Michigan-Ann Arbor,White,2024,46
+170976,University of Michigan-Ann Arbor,two or more races,2014,3
+170976,University of Michigan-Ann Arbor,two or more races,2015,3
+170976,University of Michigan-Ann Arbor,two or more races,2016,4
+170976,University of Michigan-Ann Arbor,two or more races,2017,4
+170976,University of Michigan-Ann Arbor,two or more races,2018,4
+170976,University of Michigan-Ann Arbor,two or more races,2019,5
+170976,University of Michigan-Ann Arbor,two or more races,2020,5
+170976,University of Michigan-Ann Arbor,two or more races,2021,5
+170976,University of Michigan-Ann Arbor,two or more races,2022,5
+170976,University of Michigan-Ann Arbor,two or more races,2023,5
+170976,University of Michigan-Ann Arbor,two or more races,2024,6
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,2014,0
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,2015,0
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,2016,0
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,2017,0
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,2018,0
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,2019,0
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,2020,0
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,2021,0
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,2022,0
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,2023,0
+174066,University of Minnesota-Twin Cities,American Indian or Alaska Native,2024,0
+174066,University of Minnesota-Twin Cities,Asian,2014,9
+174066,University of Minnesota-Twin Cities,Asian,2015,9
+174066,University of Minnesota-Twin Cities,Asian,2016,9
+174066,University of Minnesota-Twin Cities,Asian,2017,9
+174066,University of Minnesota-Twin Cities,Asian,2018,10
+174066,University of Minnesota-Twin Cities,Asian,2019,10
+174066,University of Minnesota-Twin Cities,Asian,2020,11
+174066,University of Minnesota-Twin Cities,Asian,2021,11
+174066,University of Minnesota-Twin Cities,Asian,2022,12
+174066,University of Minnesota-Twin Cities,Asian,2023,12
+174066,University of Minnesota-Twin Cities,Asian,2024,13
+174066,University of Minnesota-Twin Cities,Asian/Native Hawaiian/Pacific Islander,2014,9
+174066,University of Minnesota-Twin Cities,Asian/Native Hawaiian/Pacific Islander,2015,9
+174066,University of Minnesota-Twin Cities,Asian/Native Hawaiian/Pacific Islander,2016,9
+174066,University of Minnesota-Twin Cities,Asian/Native Hawaiian/Pacific Islander,2017,9
+174066,University of Minnesota-Twin Cities,Asian/Native Hawaiian/Pacific Islander,2018,10
+174066,University of Minnesota-Twin Cities,Asian/Native Hawaiian/Pacific Islander,2019,10
+174066,University of Minnesota-Twin Cities,Asian/Native Hawaiian/Pacific Islander,2020,11
+174066,University of Minnesota-Twin Cities,Asian/Native Hawaiian/Pacific Islander,2021,11
+174066,University of Minnesota-Twin Cities,Asian/Native Hawaiian/Pacific Islander,2022,12
+174066,University of Minnesota-Twin Cities,Asian/Native Hawaiian/Pacific Islander,2023,13
+174066,University of Minnesota-Twin Cities,Asian/Native Hawaiian/Pacific Islander,2024,13
+174066,University of Minnesota-Twin Cities,Black or African American,2014,4
+174066,University of Minnesota-Twin Cities,Black or African American,2015,4
+174066,University of Minnesota-Twin Cities,Black or African American,2016,4
+174066,University of Minnesota-Twin Cities,Black or African American,2017,4
+174066,University of Minnesota-Twin Cities,Black or African American,2018,5
+174066,University of Minnesota-Twin Cities,Black or African American,2019,5
+174066,University of Minnesota-Twin Cities,Black or African American,2020,6
+174066,University of Minnesota-Twin Cities,Black or African American,2021,7
+174066,University of Minnesota-Twin Cities,Black or African American,2022,8
+174066,University of Minnesota-Twin Cities,Black or African American,2023,8
+174066,University of Minnesota-Twin Cities,Black or African American,2024,9
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,2014,3
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,2015,3
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,2016,4
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,2017,4
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,2018,4
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,2019,4
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,2020,5
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,2021,5
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,2022,6
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,2023,7
+174066,University of Minnesota-Twin Cities,Hispanic/Latino,2024,7
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,2014,0
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,2015,0
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,2016,0
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,2017,0
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,2018,0
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,2019,0
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,2020,0
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,2021,0
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,2022,0
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,2023,0
+174066,University of Minnesota-Twin Cities,Native Hawaiian or Other Pacific Islander,2024,0
+174066,University of Minnesota-Twin Cities,Nonresident,2014,9
+174066,University of Minnesota-Twin Cities,Nonresident,2015,10
+174066,University of Minnesota-Twin Cities,Nonresident,2016,9
+174066,University of Minnesota-Twin Cities,Nonresident,2017,9
+174066,University of Minnesota-Twin Cities,Nonresident,2018,8
+174066,University of Minnesota-Twin Cities,Nonresident,2019,8
+174066,University of Minnesota-Twin Cities,Nonresident,2020,6
+174066,University of Minnesota-Twin Cities,Nonresident,2021,6
+174066,University of Minnesota-Twin Cities,Nonresident,2022,5
+174066,University of Minnesota-Twin Cities,Nonresident,2023,5
+174066,University of Minnesota-Twin Cities,Nonresident,2024,5
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,2014,3
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,2015,3
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,2016,3
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,2017,4
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,2018,4
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,2019,6
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,2020,7
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,2021,5
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,2022,4
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,2023,4
+174066,University of Minnesota-Twin Cities,Race/ethnicity unknown,2024,4
+174066,University of Minnesota-Twin Cities,White,2014,68
+174066,University of Minnesota-Twin Cities,White,2015,68
+174066,University of Minnesota-Twin Cities,White,2016,67
+174066,University of Minnesota-Twin Cities,White,2017,66
+174066,University of Minnesota-Twin Cities,White,2018,65
+174066,University of Minnesota-Twin Cities,White,2019,62
+174066,University of Minnesota-Twin Cities,White,2020,61
+174066,University of Minnesota-Twin Cities,White,2021,62
+174066,University of Minnesota-Twin Cities,White,2022,60
+174066,University of Minnesota-Twin Cities,White,2023,58
+174066,University of Minnesota-Twin Cities,White,2024,56
+174066,University of Minnesota-Twin Cities,two or more races,2014,3
+174066,University of Minnesota-Twin Cities,two or more races,2015,3
+174066,University of Minnesota-Twin Cities,two or more races,2016,3
+174066,University of Minnesota-Twin Cities,two or more races,2017,4
+174066,University of Minnesota-Twin Cities,two or more races,2018,4
+174066,University of Minnesota-Twin Cities,two or more races,2019,4
+174066,University of Minnesota-Twin Cities,two or more races,2020,4
+174066,University of Minnesota-Twin Cities,two or more races,2021,4
+174066,University of Minnesota-Twin Cities,two or more races,2022,5
+174066,University of Minnesota-Twin Cities,two or more races,2023,5
+174066,University of Minnesota-Twin Cities,two or more races,2024,5
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,2014,0
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,2015,0
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,2016,0
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,2017,0
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,2018,0
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,2019,0
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,2020,0
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,2021,0
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,2022,0
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,2023,0
+181464,University of Nebraska-Lincoln,American Indian or Alaska Native,2024,0
+181464,University of Nebraska-Lincoln,Asian,2014,2
+181464,University of Nebraska-Lincoln,Asian,2015,2
+181464,University of Nebraska-Lincoln,Asian,2016,3
+181464,University of Nebraska-Lincoln,Asian,2017,3
+181464,University of Nebraska-Lincoln,Asian,2018,3
+181464,University of Nebraska-Lincoln,Asian,2019,3
+181464,University of Nebraska-Lincoln,Asian,2020,3
+181464,University of Nebraska-Lincoln,Asian,2021,4
+181464,University of Nebraska-Lincoln,Asian,2022,4
+181464,University of Nebraska-Lincoln,Asian,2023,4
+181464,University of Nebraska-Lincoln,Asian,2024,4
+181464,University of Nebraska-Lincoln,Asian/Native Hawaiian/Pacific Islander,2014,2
+181464,University of Nebraska-Lincoln,Asian/Native Hawaiian/Pacific Islander,2015,3
+181464,University of Nebraska-Lincoln,Asian/Native Hawaiian/Pacific Islander,2016,3
+181464,University of Nebraska-Lincoln,Asian/Native Hawaiian/Pacific Islander,2017,3
+181464,University of Nebraska-Lincoln,Asian/Native Hawaiian/Pacific Islander,2018,3
+181464,University of Nebraska-Lincoln,Asian/Native Hawaiian/Pacific Islander,2019,3
+181464,University of Nebraska-Lincoln,Asian/Native Hawaiian/Pacific Islander,2020,3
+181464,University of Nebraska-Lincoln,Asian/Native Hawaiian/Pacific Islander,2021,4
+181464,University of Nebraska-Lincoln,Asian/Native Hawaiian/Pacific Islander,2022,4
+181464,University of Nebraska-Lincoln,Asian/Native Hawaiian/Pacific Islander,2023,4
+181464,University of Nebraska-Lincoln,Asian/Native Hawaiian/Pacific Islander,2024,4
+181464,University of Nebraska-Lincoln,Black or African American,2014,3
+181464,University of Nebraska-Lincoln,Black or African American,2015,3
+181464,University of Nebraska-Lincoln,Black or African American,2016,3
+181464,University of Nebraska-Lincoln,Black or African American,2017,3
+181464,University of Nebraska-Lincoln,Black or African American,2018,3
+181464,University of Nebraska-Lincoln,Black or African American,2019,3
+181464,University of Nebraska-Lincoln,Black or African American,2020,3
+181464,University of Nebraska-Lincoln,Black or African American,2021,3
+181464,University of Nebraska-Lincoln,Black or African American,2022,3
+181464,University of Nebraska-Lincoln,Black or African American,2023,3
+181464,University of Nebraska-Lincoln,Black or African American,2024,3
+181464,University of Nebraska-Lincoln,Hispanic/Latino,2014,5
+181464,University of Nebraska-Lincoln,Hispanic/Latino,2015,5
+181464,University of Nebraska-Lincoln,Hispanic/Latino,2016,6
+181464,University of Nebraska-Lincoln,Hispanic/Latino,2017,6
+181464,University of Nebraska-Lincoln,Hispanic/Latino,2018,7
+181464,University of Nebraska-Lincoln,Hispanic/Latino,2019,7
+181464,University of Nebraska-Lincoln,Hispanic/Latino,2020,8
+181464,University of Nebraska-Lincoln,Hispanic/Latino,2021,8
+181464,University of Nebraska-Lincoln,Hispanic/Latino,2022,9
+181464,University of Nebraska-Lincoln,Hispanic/Latino,2023,9
+181464,University of Nebraska-Lincoln,Hispanic/Latino,2024,10
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,2014,0
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,2015,0
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,2016,0
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,2017,0
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,2018,0
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,2019,0
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,2020,0
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,2021,0
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,2022,0
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,2023,0
+181464,University of Nebraska-Lincoln,Native Hawaiian or Other Pacific Islander,2024,0
+181464,University of Nebraska-Lincoln,Nonresident,2014,8
+181464,University of Nebraska-Lincoln,Nonresident,2015,8
+181464,University of Nebraska-Lincoln,Nonresident,2016,8
+181464,University of Nebraska-Lincoln,Nonresident,2017,9
+181464,University of Nebraska-Lincoln,Nonresident,2018,9
+181464,University of Nebraska-Lincoln,Nonresident,2019,8
+181464,University of Nebraska-Lincoln,Nonresident,2020,6
+181464,University of Nebraska-Lincoln,Nonresident,2021,5
+181464,University of Nebraska-Lincoln,Nonresident,2022,4
+181464,University of Nebraska-Lincoln,Nonresident,2023,3
+181464,University of Nebraska-Lincoln,Nonresident,2024,3
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2014,2
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2015,2
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2016,1
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2017,1
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2018,1
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2019,1
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2020,1
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2021,1
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2022,1
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2023,1
+181464,University of Nebraska-Lincoln,Race/ethnicity unknown,2024,1
+181464,University of Nebraska-Lincoln,White,2014,78
+181464,University of Nebraska-Lincoln,White,2015,77
+181464,University of Nebraska-Lincoln,White,2016,76
+181464,University of Nebraska-Lincoln,White,2017,75
+181464,University of Nebraska-Lincoln,White,2018,74
+181464,University of Nebraska-Lincoln,White,2019,75
+181464,University of Nebraska-Lincoln,White,2020,75
+181464,University of Nebraska-Lincoln,White,2021,76
+181464,University of Nebraska-Lincoln,White,2022,76
+181464,University of Nebraska-Lincoln,White,2023,76
+181464,University of Nebraska-Lincoln,White,2024,75
+181464,University of Nebraska-Lincoln,two or more races,2014,3
+181464,University of Nebraska-Lincoln,two or more races,2015,3
+181464,University of Nebraska-Lincoln,two or more races,2016,3
+181464,University of Nebraska-Lincoln,two or more races,2017,3
+181464,University of Nebraska-Lincoln,two or more races,2018,3
+181464,University of Nebraska-Lincoln,two or more races,2019,3
+181464,University of Nebraska-Lincoln,two or more races,2020,3
+181464,University of Nebraska-Lincoln,two or more races,2021,3
+181464,University of Nebraska-Lincoln,two or more races,2022,4
+181464,University of Nebraska-Lincoln,two or more races,2023,4
+181464,University of Nebraska-Lincoln,two or more races,2024,4
+209551,University of Oregon,American Indian or Alaska Native,2014,1
+209551,University of Oregon,American Indian or Alaska Native,2015,0
+209551,University of Oregon,American Indian or Alaska Native,2016,1
+209551,University of Oregon,American Indian or Alaska Native,2017,1
+209551,University of Oregon,American Indian or Alaska Native,2018,1
+209551,University of Oregon,American Indian or Alaska Native,2019,1
+209551,University of Oregon,American Indian or Alaska Native,2020,1
+209551,University of Oregon,American Indian or Alaska Native,2021,0
+209551,University of Oregon,American Indian or Alaska Native,2022,0
+209551,University of Oregon,American Indian or Alaska Native,2023,1
+209551,University of Oregon,American Indian or Alaska Native,2024,1
+209551,University of Oregon,Asian,2014,5
+209551,University of Oregon,Asian,2015,6
+209551,University of Oregon,Asian,2016,6
+209551,University of Oregon,Asian,2017,6
+209551,University of Oregon,Asian,2018,6
+209551,University of Oregon,Asian,2019,6
+209551,University of Oregon,Asian,2020,7
+209551,University of Oregon,Asian,2021,7
+209551,University of Oregon,Asian,2022,7
+209551,University of Oregon,Asian,2023,7
+209551,University of Oregon,Asian,2024,7
+209551,University of Oregon,Asian/Native Hawaiian/Pacific Islander,2014,6
+209551,University of Oregon,Asian/Native Hawaiian/Pacific Islander,2015,6
+209551,University of Oregon,Asian/Native Hawaiian/Pacific Islander,2016,6
+209551,University of Oregon,Asian/Native Hawaiian/Pacific Islander,2017,6
+209551,University of Oregon,Asian/Native Hawaiian/Pacific Islander,2018,6
+209551,University of Oregon,Asian/Native Hawaiian/Pacific Islander,2019,7
+209551,University of Oregon,Asian/Native Hawaiian/Pacific Islander,2020,7
+209551,University of Oregon,Asian/Native Hawaiian/Pacific Islander,2021,7
+209551,University of Oregon,Asian/Native Hawaiian/Pacific Islander,2022,7
+209551,University of Oregon,Asian/Native Hawaiian/Pacific Islander,2023,7
+209551,University of Oregon,Asian/Native Hawaiian/Pacific Islander,2024,7
+209551,University of Oregon,Black or African American,2014,2
+209551,University of Oregon,Black or African American,2015,2
+209551,University of Oregon,Black or African American,2016,2
+209551,University of Oregon,Black or African American,2017,2
+209551,University of Oregon,Black or African American,2018,2
+209551,University of Oregon,Black or African American,2019,2
+209551,University of Oregon,Black or African American,2020,3
+209551,University of Oregon,Black or African American,2021,2
+209551,University of Oregon,Black or African American,2022,3
+209551,University of Oregon,Black or African American,2023,3
+209551,University of Oregon,Black or African American,2024,3
+209551,University of Oregon,Hispanic/Latino,2014,9
+209551,University of Oregon,Hispanic/Latino,2015,10
+209551,University of Oregon,Hispanic/Latino,2016,11
+209551,University of Oregon,Hispanic/Latino,2017,12
+209551,University of Oregon,Hispanic/Latino,2018,13
+209551,University of Oregon,Hispanic/Latino,2019,13
+209551,University of Oregon,Hispanic/Latino,2020,14
+209551,University of Oregon,Hispanic/Latino,2021,15
+209551,University of Oregon,Hispanic/Latino,2022,15
+209551,University of Oregon,Hispanic/Latino,2023,16
+209551,University of Oregon,Hispanic/Latino,2024,17
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,2014,0
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,2015,0
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,2016,0
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,2017,0
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,2018,0
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,2019,0
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,2020,0
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,2021,0
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,2022,0
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,2023,0
+209551,University of Oregon,Native Hawaiian or Other Pacific Islander,2024,0
+209551,University of Oregon,Nonresident,2014,13
+209551,University of Oregon,Nonresident,2015,14
+209551,University of Oregon,Nonresident,2016,13
+209551,University of Oregon,Nonresident,2017,12
+209551,University of Oregon,Nonresident,2018,10
+209551,University of Oregon,Nonresident,2019,7
+209551,University of Oregon,Nonresident,2020,5
+209551,University of Oregon,Nonresident,2021,3
+209551,University of Oregon,Nonresident,2022,2
+209551,University of Oregon,Nonresident,2023,2
+209551,University of Oregon,Nonresident,2024,1
+209551,University of Oregon,Race/ethnicity unknown,2014,2
+209551,University of Oregon,Race/ethnicity unknown,2015,2
+209551,University of Oregon,Race/ethnicity unknown,2016,2
+209551,University of Oregon,Race/ethnicity unknown,2017,2
+209551,University of Oregon,Race/ethnicity unknown,2018,2
+209551,University of Oregon,Race/ethnicity unknown,2019,2
+209551,University of Oregon,Race/ethnicity unknown,2020,2
+209551,University of Oregon,Race/ethnicity unknown,2021,2
+209551,University of Oregon,Race/ethnicity unknown,2022,2
+209551,University of Oregon,Race/ethnicity unknown,2023,1
+209551,University of Oregon,Race/ethnicity unknown,2024,1
+209551,University of Oregon,White,2014,62
+209551,University of Oregon,White,2015,59
+209551,University of Oregon,White,2016,59
+209551,University of Oregon,White,2017,58
+209551,University of Oregon,White,2018,58
+209551,University of Oregon,White,2019,59
+209551,University of Oregon,White,2020,60
+209551,University of Oregon,White,2021,61
+209551,University of Oregon,White,2022,62
+209551,University of Oregon,White,2023,62
+209551,University of Oregon,White,2024,60
+209551,University of Oregon,two or more races,2014,6
+209551,University of Oregon,two or more races,2015,7
+209551,University of Oregon,two or more races,2016,7
+209551,University of Oregon,two or more races,2017,8
+209551,University of Oregon,two or more races,2018,8
+209551,University of Oregon,two or more races,2019,8
+209551,University of Oregon,two or more races,2020,9
+209551,University of Oregon,two or more races,2021,9
+209551,University of Oregon,two or more races,2022,9
+209551,University of Oregon,two or more races,2023,9
+209551,University of Oregon,two or more races,2024,10
+123961,University of Southern California,American Indian or Alaska Native,2014,0
+123961,University of Southern California,American Indian or Alaska Native,2015,0
+123961,University of Southern California,American Indian or Alaska Native,2016,0
+123961,University of Southern California,American Indian or Alaska Native,2017,0
+123961,University of Southern California,American Indian or Alaska Native,2018,0
+123961,University of Southern California,American Indian or Alaska Native,2019,0
+123961,University of Southern California,American Indian or Alaska Native,2020,0
+123961,University of Southern California,American Indian or Alaska Native,2021,0
+123961,University of Southern California,American Indian or Alaska Native,2022,0
+123961,University of Southern California,American Indian or Alaska Native,2023,0
+123961,University of Southern California,American Indian or Alaska Native,2024,0
+123961,University of Southern California,Asian,2014,22
+123961,University of Southern California,Asian,2015,21
+123961,University of Southern California,Asian,2016,21
+123961,University of Southern California,Asian,2017,20
+123961,University of Southern California,Asian,2018,21
+123961,University of Southern California,Asian,2019,21
+123961,University of Southern California,Asian,2020,23
+123961,University of Southern California,Asian,2021,24
+123961,University of Southern California,Asian,2022,24
+123961,University of Southern California,Asian,2023,25
+123961,University of Southern California,Asian,2024,23
+123961,University of Southern California,Asian/Native Hawaiian/Pacific Islander,2014,22
+123961,University of Southern California,Asian/Native Hawaiian/Pacific Islander,2015,21
+123961,University of Southern California,Asian/Native Hawaiian/Pacific Islander,2016,21
+123961,University of Southern California,Asian/Native Hawaiian/Pacific Islander,2017,21
+123961,University of Southern California,Asian/Native Hawaiian/Pacific Islander,2018,21
+123961,University of Southern California,Asian/Native Hawaiian/Pacific Islander,2019,22
+123961,University of Southern California,Asian/Native Hawaiian/Pacific Islander,2020,24
+123961,University of Southern California,Asian/Native Hawaiian/Pacific Islander,2021,24
+123961,University of Southern California,Asian/Native Hawaiian/Pacific Islander,2022,25
+123961,University of Southern California,Asian/Native Hawaiian/Pacific Islander,2023,25
+123961,University of Southern California,Asian/Native Hawaiian/Pacific Islander,2024,23
+123961,University of Southern California,Black or African American,2014,4
+123961,University of Southern California,Black or African American,2015,4
+123961,University of Southern California,Black or African American,2016,4
+123961,University of Southern California,Black or African American,2017,5
+123961,University of Southern California,Black or African American,2018,5
+123961,University of Southern California,Black or African American,2019,5
+123961,University of Southern California,Black or African American,2020,5
+123961,University of Southern California,Black or African American,2021,6
+123961,University of Southern California,Black or African American,2022,6
+123961,University of Southern California,Black or African American,2023,7
+123961,University of Southern California,Black or African American,2024,7
+123961,University of Southern California,Hispanic/Latino,2014,13
+123961,University of Southern California,Hispanic/Latino,2015,14
+123961,University of Southern California,Hispanic/Latino,2016,14
+123961,University of Southern California,Hispanic/Latino,2017,14
+123961,University of Southern California,Hispanic/Latino,2018,15
+123961,University of Southern California,Hispanic/Latino,2019,15
+123961,University of Southern California,Hispanic/Latino,2020,16
+123961,University of Southern California,Hispanic/Latino,2021,17
+123961,University of Southern California,Hispanic/Latino,2022,17
+123961,University of Southern California,Hispanic/Latino,2023,18
+123961,University of Southern California,Hispanic/Latino,2024,20
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,2014,0
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,2015,0
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,2016,0
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,2017,0
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,2018,0
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,2019,0
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,2020,0
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,2021,0
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,2022,0
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,2023,0
+123961,University of Southern California,Native Hawaiian or Other Pacific Islander,2024,0
+123961,University of Southern California,Nonresident,2014,14
+123961,University of Southern California,Nonresident,2015,14
+123961,University of Southern California,Nonresident,2016,14
+123961,University of Southern California,Nonresident,2017,14
+123961,University of Southern California,Nonresident,2018,13
+123961,University of Southern California,Nonresident,2019,13
+123961,University of Southern California,Nonresident,2020,12
+123961,University of Southern California,Nonresident,2021,12
+123961,University of Southern California,Nonresident,2022,14
+123961,University of Southern California,Nonresident,2023,14
+123961,University of Southern California,Nonresident,2024,14
+123961,University of Southern California,Race/ethnicity unknown,2014,5
+123961,University of Southern California,Race/ethnicity unknown,2015,2
+123961,University of Southern California,Race/ethnicity unknown,2016,2
+123961,University of Southern California,Race/ethnicity unknown,2017,2
+123961,University of Southern California,Race/ethnicity unknown,2018,1
+123961,University of Southern California,Race/ethnicity unknown,2019,2
+123961,University of Southern California,Race/ethnicity unknown,2020,2
+123961,University of Southern California,Race/ethnicity unknown,2021,2
+123961,University of Southern California,Race/ethnicity unknown,2022,2
+123961,University of Southern California,Race/ethnicity unknown,2023,2
+123961,University of Southern California,Race/ethnicity unknown,2024,4
+123961,University of Southern California,White,2014,36
+123961,University of Southern California,White,2015,40
+123961,University of Southern California,White,2016,39
+123961,University of Southern California,White,2017,39
+123961,University of Southern California,White,2018,39
+123961,University of Southern California,White,2019,37
+123961,University of Southern California,White,2020,35
+123961,University of Southern California,White,2021,32
+123961,University of Southern California,White,2022,30
+123961,University of Southern California,White,2023,27
+123961,University of Southern California,White,2024,25
+123961,University of Southern California,two or more races,2014,5
+123961,University of Southern California,two or more races,2015,5
+123961,University of Southern California,two or more races,2016,5
+123961,University of Southern California,two or more races,2017,6
+123961,University of Southern California,two or more races,2018,6
+123961,University of Southern California,two or more races,2019,6
+123961,University of Southern California,two or more races,2020,6
+123961,University of Southern California,two or more races,2021,6
+123961,University of Southern California,two or more races,2022,6
+123961,University of Southern California,two or more races,2023,6
+123961,University of Southern California,two or more races,2024,6
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,2014,0
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,2015,0
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,2016,0
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,2017,0
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,2018,0
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,2019,0
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,2020,0
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,2021,0
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,2022,0
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,2023,0
+236948,University of Washington-Seattle Campus,American Indian or Alaska Native,2024,0
+236948,University of Washington-Seattle Campus,Asian,2014,23
+236948,University of Washington-Seattle Campus,Asian,2015,23
+236948,University of Washington-Seattle Campus,Asian,2016,24
+236948,University of Washington-Seattle Campus,Asian,2017,24
+236948,University of Washington-Seattle Campus,Asian,2018,25
+236948,University of Washington-Seattle Campus,Asian,2019,25
+236948,University of Washington-Seattle Campus,Asian,2020,26
+236948,University of Washington-Seattle Campus,Asian,2021,24
+236948,University of Washington-Seattle Campus,Asian,2022,24
+236948,University of Washington-Seattle Campus,Asian,2023,22
+236948,University of Washington-Seattle Campus,Asian,2024,22
+236948,University of Washington-Seattle Campus,Asian/Native Hawaiian/Pacific Islander,2014,23
+236948,University of Washington-Seattle Campus,Asian/Native Hawaiian/Pacific Islander,2015,24
+236948,University of Washington-Seattle Campus,Asian/Native Hawaiian/Pacific Islander,2016,25
+236948,University of Washington-Seattle Campus,Asian/Native Hawaiian/Pacific Islander,2017,25
+236948,University of Washington-Seattle Campus,Asian/Native Hawaiian/Pacific Islander,2018,25
+236948,University of Washington-Seattle Campus,Asian/Native Hawaiian/Pacific Islander,2019,25
+236948,University of Washington-Seattle Campus,Asian/Native Hawaiian/Pacific Islander,2020,26
+236948,University of Washington-Seattle Campus,Asian/Native Hawaiian/Pacific Islander,2021,25
+236948,University of Washington-Seattle Campus,Asian/Native Hawaiian/Pacific Islander,2022,25
+236948,University of Washington-Seattle Campus,Asian/Native Hawaiian/Pacific Islander,2023,22
+236948,University of Washington-Seattle Campus,Asian/Native Hawaiian/Pacific Islander,2024,22
+236948,University of Washington-Seattle Campus,Black or African American,2014,3
+236948,University of Washington-Seattle Campus,Black or African American,2015,3
+236948,University of Washington-Seattle Campus,Black or African American,2016,3
+236948,University of Washington-Seattle Campus,Black or African American,2017,3
+236948,University of Washington-Seattle Campus,Black or African American,2018,3
+236948,University of Washington-Seattle Campus,Black or African American,2019,3
+236948,University of Washington-Seattle Campus,Black or African American,2020,3
+236948,University of Washington-Seattle Campus,Black or African American,2021,3
+236948,University of Washington-Seattle Campus,Black or African American,2022,3
+236948,University of Washington-Seattle Campus,Black or African American,2023,3
+236948,University of Washington-Seattle Campus,Black or African American,2024,3
+236948,University of Washington-Seattle Campus,Hispanic/Latino,2014,7
+236948,University of Washington-Seattle Campus,Hispanic/Latino,2015,7
+236948,University of Washington-Seattle Campus,Hispanic/Latino,2016,7
+236948,University of Washington-Seattle Campus,Hispanic/Latino,2017,8
+236948,University of Washington-Seattle Campus,Hispanic/Latino,2018,8
+236948,University of Washington-Seattle Campus,Hispanic/Latino,2019,9
+236948,University of Washington-Seattle Campus,Hispanic/Latino,2020,9
+236948,University of Washington-Seattle Campus,Hispanic/Latino,2021,8
+236948,University of Washington-Seattle Campus,Hispanic/Latino,2022,8
+236948,University of Washington-Seattle Campus,Hispanic/Latino,2023,8
+236948,University of Washington-Seattle Campus,Hispanic/Latino,2024,8
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,2014,0
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,2015,0
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,2016,0
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,2017,0
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,2018,0
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,2019,0
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,2020,0
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,2021,0
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,2022,0
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,2023,0
+236948,University of Washington-Seattle Campus,Native Hawaiian or Other Pacific Islander,2024,0
+236948,University of Washington-Seattle Campus,Nonresident,2014,14
+236948,University of Washington-Seattle Campus,Nonresident,2015,15
+236948,University of Washington-Seattle Campus,Nonresident,2016,14
+236948,University of Washington-Seattle Campus,Nonresident,2017,15
+236948,University of Washington-Seattle Campus,Nonresident,2018,15
+236948,University of Washington-Seattle Campus,Nonresident,2019,15
+236948,University of Washington-Seattle Campus,Nonresident,2020,15
+236948,University of Washington-Seattle Campus,Nonresident,2021,12
+236948,University of Washington-Seattle Campus,Nonresident,2022,12
+236948,University of Washington-Seattle Campus,Nonresident,2023,11
+236948,University of Washington-Seattle Campus,Nonresident,2024,10
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,2014,4
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,2015,3
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,2016,3
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,2017,2
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,2018,3
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,2019,4
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,2020,4
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,2021,12
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,2022,15
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,2023,22
+236948,University of Washington-Seattle Campus,Race/ethnicity unknown,2024,24
+236948,University of Washington-Seattle Campus,White,2014,43
+236948,University of Washington-Seattle Campus,White,2015,42
+236948,University of Washington-Seattle Campus,White,2016,41
+236948,University of Washington-Seattle Campus,White,2017,40
+236948,University of Washington-Seattle Campus,White,2018,38
+236948,University of Washington-Seattle Campus,White,2019,36
+236948,University of Washington-Seattle Campus,White,2020,35
+236948,University of Washington-Seattle Campus,White,2021,32
+236948,University of Washington-Seattle Campus,White,2022,30
+236948,University of Washington-Seattle Campus,White,2023,27
+236948,University of Washington-Seattle Campus,White,2024,26
+236948,University of Washington-Seattle Campus,two or more races,2014,6
+236948,University of Washington-Seattle Campus,two or more races,2015,6
+236948,University of Washington-Seattle Campus,two or more races,2016,7
+236948,University of Washington-Seattle Campus,two or more races,2017,7
+236948,University of Washington-Seattle Campus,two or more races,2018,7
+236948,University of Washington-Seattle Campus,two or more races,2019,7
+236948,University of Washington-Seattle Campus,two or more races,2020,8
+236948,University of Washington-Seattle Campus,two or more races,2021,7
+236948,University of Washington-Seattle Campus,two or more races,2022,7
+236948,University of Washington-Seattle Campus,two or more races,2023,6
+236948,University of Washington-Seattle Campus,two or more races,2024,6
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,2014,0
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,2015,0
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,2016,0
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,2017,0
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,2018,0
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,2019,0
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,2020,0
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,2021,0
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,2022,0
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,2023,0
+240444,University of Wisconsin-Madison,American Indian or Alaska Native,2024,0
+240444,University of Wisconsin-Madison,Asian,2014,5
+240444,University of Wisconsin-Madison,Asian,2015,6
+240444,University of Wisconsin-Madison,Asian,2016,6
+240444,University of Wisconsin-Madison,Asian,2017,6
+240444,University of Wisconsin-Madison,Asian,2018,6
+240444,University of Wisconsin-Madison,Asian,2019,7
+240444,University of Wisconsin-Madison,Asian,2020,8
+240444,University of Wisconsin-Madison,Asian,2021,9
+240444,University of Wisconsin-Madison,Asian,2022,10
+240444,University of Wisconsin-Madison,Asian,2023,10
+240444,University of Wisconsin-Madison,Asian,2024,11
+240444,University of Wisconsin-Madison,Asian/Native Hawaiian/Pacific Islander,2014,6
+240444,University of Wisconsin-Madison,Asian/Native Hawaiian/Pacific Islander,2015,6
+240444,University of Wisconsin-Madison,Asian/Native Hawaiian/Pacific Islander,2016,6
+240444,University of Wisconsin-Madison,Asian/Native Hawaiian/Pacific Islander,2017,6
+240444,University of Wisconsin-Madison,Asian/Native Hawaiian/Pacific Islander,2018,7
+240444,University of Wisconsin-Madison,Asian/Native Hawaiian/Pacific Islander,2019,7
+240444,University of Wisconsin-Madison,Asian/Native Hawaiian/Pacific Islander,2020,8
+240444,University of Wisconsin-Madison,Asian/Native Hawaiian/Pacific Islander,2021,9
+240444,University of Wisconsin-Madison,Asian/Native Hawaiian/Pacific Islander,2022,10
+240444,University of Wisconsin-Madison,Asian/Native Hawaiian/Pacific Islander,2023,10
+240444,University of Wisconsin-Madison,Asian/Native Hawaiian/Pacific Islander,2024,11
+240444,University of Wisconsin-Madison,Black or African American,2014,2
+240444,University of Wisconsin-Madison,Black or African American,2015,2
+240444,University of Wisconsin-Madison,Black or African American,2016,2
+240444,University of Wisconsin-Madison,Black or African American,2017,2
+240444,University of Wisconsin-Madison,Black or African American,2018,2
+240444,University of Wisconsin-Madison,Black or African American,2019,2
+240444,University of Wisconsin-Madison,Black or African American,2020,2
+240444,University of Wisconsin-Madison,Black or African American,2021,2
+240444,University of Wisconsin-Madison,Black or African American,2022,2
+240444,University of Wisconsin-Madison,Black or African American,2023,3
+240444,University of Wisconsin-Madison,Black or African American,2024,3
+240444,University of Wisconsin-Madison,Hispanic/Latino,2014,5
+240444,University of Wisconsin-Madison,Hispanic/Latino,2015,5
+240444,University of Wisconsin-Madison,Hispanic/Latino,2016,5
+240444,University of Wisconsin-Madison,Hispanic/Latino,2017,5
+240444,University of Wisconsin-Madison,Hispanic/Latino,2018,5
+240444,University of Wisconsin-Madison,Hispanic/Latino,2019,5
+240444,University of Wisconsin-Madison,Hispanic/Latino,2020,6
+240444,University of Wisconsin-Madison,Hispanic/Latino,2021,7
+240444,University of Wisconsin-Madison,Hispanic/Latino,2022,7
+240444,University of Wisconsin-Madison,Hispanic/Latino,2023,8
+240444,University of Wisconsin-Madison,Hispanic/Latino,2024,8
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,2014,0
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,2015,0
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,2016,0
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,2017,0
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,2018,0
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,2019,0
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,2020,0
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,2021,0
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,2022,0
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,2023,0
+240444,University of Wisconsin-Madison,Native Hawaiian or Other Pacific Islander,2024,0
+240444,University of Wisconsin-Madison,Nonresident,2014,8
+240444,University of Wisconsin-Madison,Nonresident,2015,9
+240444,University of Wisconsin-Madison,Nonresident,2016,9
+240444,University of Wisconsin-Madison,Nonresident,2017,10
+240444,University of Wisconsin-Madison,Nonresident,2018,11
+240444,University of Wisconsin-Madison,Nonresident,2019,11
+240444,University of Wisconsin-Madison,Nonresident,2020,9
+240444,University of Wisconsin-Madison,Nonresident,2021,10
+240444,University of Wisconsin-Madison,Nonresident,2022,11
+240444,University of Wisconsin-Madison,Nonresident,2023,11
+240444,University of Wisconsin-Madison,Nonresident,2024,11
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,2014,0
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,2015,0
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,2016,0
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,2017,1
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,2018,2
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,2019,2
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,2020,3
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,2021,3
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,2022,3
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,2023,3
+240444,University of Wisconsin-Madison,Race/ethnicity unknown,2024,3
+240444,University of Wisconsin-Madison,White,2014,76
+240444,University of Wisconsin-Madison,White,2015,75
+240444,University of Wisconsin-Madison,White,2016,74
+240444,University of Wisconsin-Madison,White,2017,72
+240444,University of Wisconsin-Madison,White,2018,70
+240444,University of Wisconsin-Madison,White,2019,68
+240444,University of Wisconsin-Madison,White,2020,68
+240444,University of Wisconsin-Madison,White,2021,65
+240444,University of Wisconsin-Madison,White,2022,62
+240444,University of Wisconsin-Madison,White,2023,60
+240444,University of Wisconsin-Madison,White,2024,59
+240444,University of Wisconsin-Madison,two or more races,2014,3
+240444,University of Wisconsin-Madison,two or more races,2015,3
+240444,University of Wisconsin-Madison,two or more races,2016,3
+240444,University of Wisconsin-Madison,two or more races,2017,3
+240444,University of Wisconsin-Madison,two or more races,2018,3
+240444,University of Wisconsin-Madison,two or more races,2019,3
+240444,University of Wisconsin-Madison,two or more races,2020,4
+240444,University of Wisconsin-Madison,two or more races,2021,4
+240444,University of Wisconsin-Madison,two or more races,2022,4
+240444,University of Wisconsin-Madison,two or more races,2023,5
+240444,University of Wisconsin-Madison,two or more races,2024,5
